@@ -1,0 +1,16 @@
+ordered-set
+IPython
+selenium
+numpy
+pandas
+matplotlib
+squarify
+seaborn
+spacy
+spacy-transformers
+networkx
+jupyterlab
+widgetsnbextension
+ipywidgets
+ipympl
+pyplutchik

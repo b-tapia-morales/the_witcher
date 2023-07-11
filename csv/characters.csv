@@ -1,0 +1,863 @@
+Id;URL;FullName;FirstName;Status;Race;Gender;Nationality;Parent(s);Child(ren);Relative(s);Partner(s);Profession;Abilities
+0;https://witcher.fandom.com/wiki/Adalia;Adalia;Adalia;Deceased;Unknown;Female;;{'https://witcher.fandom.com/wiki/Muriel': 'Muriel (mother)', 'https://witcher.fandom.com/wiki/Robert_of_Garramone': 'Robert of Garramone (father)'};{'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (daughter)'};{'https://witcher.fandom.com/wiki/Pavetta': 'Pavetta (granddaughter)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (great-granddaughter)'};{'https://witcher.fandom.com/wiki/Ragbard': 'Ragbard (first husband)', 'https://witcher.fandom.com/wiki/Dagorad': 'Dagorad (second husband)'};;
+1;https://witcher.fandom.com/wiki/Adela;Adela;Adela;Deceased (plague);Quarter-elf;Female;;{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (father)'};;{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (brother)', 'https://witcher.fandom.com/wiki/Fiona': 'Fiona (sister)', 'https://witcher.fandom.com/wiki/Cedric_(king)': 'Cedric (king) (half-brother)'};;;
+2;https://witcher.fandom.com/wiki/Aen_Saevherne;Aen Saevherne;Aen;;Unknown;;;;;;;;
+3;https://witcher.fandom.com/wiki/Aevenien;Aevenien;Aevenien;;Elf;Female;;;{'https://witcher.fandom.com/wiki/Ithlinne': 'Ithlinne (daughter)'};;;;
+4;https://witcher.fandom.com/wiki/Agla%C3%AFs;Aglaïs;Aglaïs;;Hamadryad;Female;Brokilonian;;;;;Healer;
+5;https://witcher.fandom.com/wiki/Albrich;Albrich;Albrich;Deceased (game canon only, killed by Queen Meve);Human;Male;;;;;;Mage;Magic
+6;https://witcher.fandom.com/wiki/Amavet;Amavet;Amavet;Deceased (killed by Roger Kameny);Quarter-elf;Male;;{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (father)', 'https://witcher.fandom.com/wiki/Riannon': 'Riannon (mother)'};{'https://witcher.fandom.com/wiki/Muriel': 'Muriel (daughter)', 'https://witcher.fandom.com/wiki/Crispin': 'Crispin (son)'};{'https://witcher.fandom.com/wiki/Adela': 'Adela (sister)', 'https://witcher.fandom.com/wiki/Fiona': 'Fiona (sister)', 'https://witcher.fandom.com/wiki/Cedric_(king)': 'Cedric (king) (half-brother)'};{'https://witcher.fandom.com/wiki/Tvilla_de_Vintre': 'Tvilla de Vintre (lover)', 'https://witcher.fandom.com/wiki/Ilona_Laux-Antille': 'Ilona Laux-Antille (lover)', 'https://witcher.fandom.com/wiki/Anna_Kameny': 'Anna Kameny (lover)'};;
+7;https://witcher.fandom.com/wiki/Angus_Bri_Cri;Angus Bri Cri;Angus;Deceased (executed in Dillingen);Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+8;https://witcher.fandom.com/wiki/Anna_Kameny;Anna Kameny;Anna;Deceased;Human;Female;;;{'https://witcher.fandom.com/wiki/Muriel': 'Muriel (daughter)', 'https://witcher.fandom.com/wiki/Crispin': 'Crispin (son)'};;{'https://witcher.fandom.com/wiki/Roger_Kameny': 'Roger Kameny (husband)', 'https://witcher.fandom.com/wiki/Amavet': 'Amavet (lover)'};;
+9;https://witcher.fandom.com/wiki/Anzelm_Aubry;Anzelm Aubry;Anzelm;Deceased (killed during the Battle of Brenna);Human;Male;;;{};;;Knight;
+10;https://witcher.fandom.com/wiki/Artaud_Terranova;Artaud Terranova;Artaud;Deceased (killed by Geralt of Rivia);Human;Male;;;;;;Mage;Magic
+11;https://witcher.fandom.com/wiki/Asse;Asse;Asse;Deceased (killed by Leo Bonhart);Human;Male;;;;;;;
+12;https://witcher.fandom.com/wiki/Assire_var_Anahid;Assire var Anahid;Assire;Deceased;Human;Female;;;;{'https://witcher.fandom.com/wiki/Eviva': 'Eviva (sister)', 'https://witcher.fandom.com/wiki/Mawr': 'Mawr (niece)', 'https://witcher.fandom.com/wiki/Cinead_var_Anahid': 'Cinead var Anahid (niece)', 'https://witcher.fandom.com/wiki/Cahir_Mawr_Dyffryn_aep_Ceallach': 'Cahir Mawr Dyffryn aep Ceallach (grandnephew)'};;"Mage
+Researcher";Magic
+13;https://witcher.fandom.com/wiki/Aubry_(first_born);Aubry;Aubry;;Human;Male;;{'https://witcher.fandom.com/wiki/Anzelm_Aubry': 'Anzelm Aubry (father)'};;{};;;
+14;https://witcher.fandom.com/wiki/Augusta_Wagner;Augusta Wagner;Augusta;Deceased;Human;Female;;;;{'https://witcher.fandom.com/wiki/Nora_Wagner': 'Nora Wagner (sister)'};;Mage;Magic
+15;https://witcher.fandom.com/wiki/Baron_of_Casadei;Baron of Casadei;Baron;;Human;Male;;;;;;;
+16;https://witcher.fandom.com/wiki/Beatrix_of_Kovir;Beatrix of Kovir;Beatrix;;Half-elf;Female;;;{'https://witcher.fandom.com/wiki/Falka': 'Falka (daughter)'};;{'https://witcher.fandom.com/wiki/Vridank': 'Vridank (husband, divorced)'};;
+17;https://witcher.fandom.com/wiki/Bronik;Bronik;Bronik;;Human;Male;;;;;;;
+18;https://witcher.fandom.com/wiki/Brouver_Hoog;Brouver Hoog;Brouver;;Dwarf;Male;;;;;;;
+19;https://witcher.fandom.com/wiki/Cahir_Mawr_Dyffryn_aep_Ceallach;Cahir Mawr Dyffryn aep Ceallach;Cahir;Deceased (killed by Leo Bonhart);Human;Male;;{'https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd': 'Ceallach aep Gruffyd (father)', 'https://witcher.fandom.com/wiki/Mawr': 'Mawr (mother)'};;{'https://witcher.fandom.com/wiki/Aillil_aep_Ceallach': 'Aillil aep Ceallach (brother)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (brother)', 'https://witcher.fandom.com/wiki/Assire_var_Anahid': 'Assire var Anahid (great-aunt)', 'https://witcher.fandom.com/wiki/Gruffyd': 'Gruffyd (grandfather)'};;Knight;"Swordmanship
+Horsemanship"
+20;https://witcher.fandom.com/wiki/Calanthe;Calanthe;Calanthe;Deceased (jumped to her death during the Slaughter of Cintra);Human;Female;;{'https://witcher.fandom.com/wiki/Adalia': 'Adalia (mother)', 'https://witcher.fandom.com/wiki/Dagorad': 'Dagorad (father)'};{'https://witcher.fandom.com/wiki/Pavetta': 'Pavetta (daughter)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (granddaughter)', 'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (nephew)', 'https://witcher.fandom.com/wiki/Meve': 'Meve (distant cousin)'};{'https://witcher.fandom.com/wiki/Roegner_of_Ebbing': 'Roegner of Ebbing (first husband, deceased)', 'https://witcher.fandom.com/wiki/Eist_Tuirseach': 'Eist Tuirseach (second husband)'};;
+21;https://witcher.fandom.com/wiki/Caleb_Stratton;Caleb Stratton;Caleb;Deceased (killed by Daerlanians);Dwarf;Male;;;;;;Soldier;
+22;https://witcher.fandom.com/wiki/Carduin;Carduin;Carduin;;Human;Male;;;;;;"Mage
+Advisor";Magic
+23;https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd;Ceallach aep Gruffyd;Ceallach;;Human;Male;;{'https://witcher.fandom.com/wiki/Gruffyd': 'Gruffyd (father)'};{'https://witcher.fandom.com/wiki/Aillil_aep_Ceallach': 'Aillil aep Ceallach (son)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (son)', 'https://witcher.fandom.com/wiki/Cahir': 'Cahir (son)'};{'https://witcher.fandom.com/wiki/Assire_var_Anahid': 'Assire var Anahid (aunt-in-law)'};{'https://witcher.fandom.com/wiki/Mawr': 'Mawr (wife)'};Seneschal;
+24;https://witcher.fandom.com/wiki/Cerro;Cerro;Cerro;Deceased (murdered by Falka);Half-elf;Female;;;{'https://witcher.fandom.com/wiki/Heltmult': 'Heltmult (son)', 'https://witcher.fandom.com/wiki/Denhard': 'Denhard (son)', 'https://witcher.fandom.com/wiki/Riannon': 'Riannon (adoptive daughter)', 'https://witcher.fandom.com/wiki/Falka': 'Falka (stepdaughter)'};;{'https://witcher.fandom.com/wiki/Vridank': 'Vridank (husband)'};;
+25;https://witcher.fandom.com/wiki/Ciaran_aep_Dearbh;Ciaran aep Dearbh;Ciaran;;Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+26;https://witcher.fandom.com/wiki/Ciri;Ciri;Ciri;;Human;Female;;{'https://witcher.fandom.com/wiki/Pavetta': 'Pavetta (mother)', 'https://witcher.fandom.com/wiki/Emhyr_var_Emreis': 'Emhyr var Emreis (father)', 'https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg': 'Yennefer of Vengerberg (adoptive mother)', 'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (adoptive father)'};;{};;"Witcher
+Empress of Nilfgaard (dependent, games)";"Elder blood gene
+Swordsmanship
+Magic (relinquished)"
+27;https://witcher.fandom.com/wiki/Cirilla_Fiona_(imposter);Cirilla Fiona;Cirilla;Deceased;Human;Female;;;;;{};;
+28;https://witcher.fandom.com/wiki/Codringher;Codringher;Codringher;Deceased (stabbed by Schirrú);Human;Male;;;;;;Jurist;
+29;https://witcher.fandom.com/wiki/Coinneach_D%C3%A1_Reo;Coinneach Dá Reo;Coinneach;Deceased (hanged);Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+30;https://witcher.fandom.com/wiki/Connor;Connor;Connor;;Human;Male;;;;;;;
+31;https://witcher.fandom.com/wiki/Coram_I;Coram I;Coram I;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Correl': 'Correl (father)', 'https://witcher.fandom.com/wiki/Eschiva_of_Sodden': 'Eschiva of Sodden (mother)'};{'https://witcher.fandom.com/wiki/Coram_II': 'Coram II (son)'};{'https://witcher.fandom.com/wiki/Ceran': 'Ceran (brother)', 'https://witcher.fandom.com/wiki/Cirra_of_Cintra': 'Cirra of Cintra (sister)'};{'https://witcher.fandom.com/wiki/Rigoberta': 'Rigoberta (wife)'};;
+32;https://witcher.fandom.com/wiki/Coram_II;Coram II;Coram II;Deceased (injury);Human;Male;;{'https://witcher.fandom.com/wiki/Coram_I': 'Coram I (father)', 'https://witcher.fandom.com/wiki/Rigoberta': 'Rigoberta (mother)'};{'https://witcher.fandom.com/wiki/Corbett': 'Corbett (son)'};;{'https://witcher.fandom.com/wiki/Fiona': 'Fiona (wife)'};;
+33;https://witcher.fandom.com/wiki/Corbett;Corbett;Corbett;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Coram_II': 'Coram II (father)', 'https://witcher.fandom.com/wiki/Fiona': 'Fiona (mother)'};{'https://witcher.fandom.com/wiki/Dagorad': 'Dagorad (son)'};;{'https://witcher.fandom.com/wiki/Elen_of_Kaedwen': 'Elen of Kaedwen (wife)'};;
+34;https://witcher.fandom.com/wiki/Cosmo_Baldenvegg;Cosmo Baldenvegg;Cosmo;Deceased (hanged);Halfling;Male;;;;;;;
+35;https://witcher.fandom.com/wiki/Count_Lanier;Count Lanier;Count;;Human;Male;;;{'https://witcher.fandom.com/wiki/Jolie_Lanier': 'Jolie Lanier (daughter)'};;;;
+36;https://witcher.fandom.com/wiki/Cregennan_of_Lod;Cregennan of Lod;Cregennan;Deceased (murdered by human assassins);Human;Male;[1];;{'https://witcher.fandom.com/wiki/Riannon': 'Riannon (daughter)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (descendent)'};{'https://witcher.fandom.com/wiki/Lara_Dorren': 'Lara Dorren (lover)'};Mage;Magic
+37;https://witcher.fandom.com/wiki/Crispin;Crispin;Crispin;;Human;Male;;{'https://witcher.fandom.com/wiki/Anna_Kameny': 'Anna Kameny (mother)', 'https://witcher.fandom.com/wiki/Roger_Kameny': 'Roger Kameny (supposed father)', 'https://witcher.fandom.com/wiki/Amavet': 'Amavet (biological father)'};;{'https://witcher.fandom.com/wiki/Muriel': 'Muriel (twin sister)'};;;
+38;https://witcher.fandom.com/wiki/Dagorad;Dagorad;Dagorad;Deceased (blood infection);Human;Male;;{'https://witcher.fandom.com/wiki/Corbett': 'Corbett (father)', 'https://witcher.fandom.com/wiki/Elen_of_Kaedwen': 'Elen of Kaedwen (mother)'};{'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (daughter)'};{'https://witcher.fandom.com/wiki/Pavetta': 'Pavetta (granddaughter)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (great-granddaughter)'};{'https://witcher.fandom.com/wiki/Adalia': 'Adalia (wife)'};;
+39;https://witcher.fandom.com/wiki/Dandelion;Dandelion;Dandelion;;Human;Male;(speculative)[N 1];{};;{'https://witcher.fandom.com/wiki/Ferrant_de_Lettenhove': 'Ferrant de Lettenhove (cousin)'};{'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (lover, formerly)', 'https://witcher.fandom.com/wiki/Vespula': 'Vespula (lover, formerly)', 'https://witcher.fandom.com/wiki/Priscilla': 'Priscilla (lover, formerly)'};Bard;"Lute playing
+Singing
+Writing poetry and prose"
+40;https://witcher.fandom.com/wiki/Daniel_Etcheverry;Daniel Etcheverry;Daniel;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (distant relative)', 'https://witcher.fandom.com/wiki/Enzo_Etcheverry': 'Enzo Etcheverry (likely relative)'};;Knight;
+41;https://witcher.fandom.com/wiki/Demavend_III;Demavend III;Demavend III;Deceased (games);Human;Male;;{'https://witcher.fandom.com/wiki/Virfuril': 'Virfuril (father)'};{'https://witcher.fandom.com/wiki/Stennis': 'Stennis (son)'};{'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (second cousin)', 'https://witcher.fandom.com/wiki/Meve': 'Meve (cousin, unknown degree)'};{'https://witcher.fandom.com/wiki/Demaretta_of_Gulet': 'Demaretta of Gulet (lover)'};;
+42;https://witcher.fandom.com/wiki/Echel_Traighlethan;Echel Traighlethan;Echel;Deceased (hanged);Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+43;https://witcher.fandom.com/wiki/Effenberg;Effenberg;Effenberg;;Human;Male;;;;;;Editor;
+44;https://witcher.fandom.com/wiki/Eithn%C3%A9;Eithné;Eithné;;Dryad;Female;Brokilonian;;{'https://witcher.fandom.com/wiki/Mor%C3%A9nn': 'Morénn (daughter)'};;;;
+45;https://witcher.fandom.com/wiki/Elan_Trahe;Elan Trahe;Elan;;Human;Male;;;;;;"Soldier
+Author";
+46;https://witcher.fandom.com/wiki/Elen_of_Kaedwen;Elen of Kaedwen;Elen;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Benda': 'Benda (father)'};{'https://witcher.fandom.com/wiki/Dagorad': 'Dagorad (son)'};;{'https://witcher.fandom.com/wiki/Corbett': 'Corbett (husband)'};;
+47;https://witcher.fandom.com/wiki/Emhyr_var_Emreis;Emhyr var Emreis;Emhyr;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Fergus_var_Emreis': 'Fergus var Emreis (father)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (daughter)'};{'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (cousin, unknown degree)', 'https://witcher.fandom.com/wiki/Sylvia_Anna': 'Sylvia Anna (cousin, unknown degree)'};{'https://witcher.fandom.com/wiki/Pavetta': 'Pavetta (first wife, deceased)', 'https://witcher.fandom.com/wiki/Aine_Dermott': 'Aine Dermott (lover, formerly)', 'https://witcher.fandom.com/wiki/Clara_aep_Gwydolyn_Gor': 'Clara aep Gwydolyn Gor (lover, formerly)', 'https://witcher.fandom.com/wiki/Dervla_Tryffin_Broinne': 'Dervla Tryffin Broinne (lover, formerly)', 'https://witcher.fandom.com/wiki/False_Ciri': 'False Ciri (second wife)'};;
+48;https://witcher.fandom.com/wiki/Emiel_Regis_Rohellec_Terzieff-Godefroy;Emiel Regis Rohellec Terzieff-Godefroy;Emiel;"Deceased (molten by Vilgefortz)
+Alive (game canon)";Higher vampire;Male;;;;;{'https://witcher.fandom.com/wiki/Natanis': 'Natanis (fling)', 'https://witcher.fandom.com/wiki/Queen_of_the_Night': 'Queen of the Night (in game lover, formerly)'};Barber-surgeon;
+49;https://witcher.fandom.com/wiki/Ethain;Ethain;Ethain;;Human;Male;;{'https://witcher.fandom.com/wiki/Mathen': 'Mathen (father)'};;;{'https://witcher.fandom.com/wiki/Sha': 'Sha (wife, briefly)'};;
+50;https://witcher.fandom.com/wiki/Falka;Falka;Falka;Deceased (burned at the stake);Quarter-elf;Female;;{'https://witcher.fandom.com/wiki/Vridank': 'Vridank (father)', 'https://witcher.fandom.com/wiki/Beatrix_of_Kovir': 'Beatrix of Kovir (mother)', 'https://witcher.fandom.com/wiki/Cerro': 'Cerro (stepmother)'};;{'https://witcher.fandom.com/wiki/Heltmult': 'Heltmult (half-brother)', 'https://witcher.fandom.com/wiki/Denhard': 'Denhard (half-brother)', 'https://witcher.fandom.com/wiki/Riannon': 'Riannon (adoptive sister)'};;;
+51;https://witcher.fandom.com/wiki/Falka_(alias);Falka;Falka;;Human;Female;;;;;;;
+52;https://witcher.fandom.com/wiki/Fauve;Fauve;Fauve;;Dryad;Female;Brokilonian;;;;;;Healing
+53;https://witcher.fandom.com/wiki/Field_Marshal_Windbag;Field Marshal Windbag;Field;;Unknown;Male;;;;;;;
+54;https://witcher.fandom.com/wiki/Figgis_Merluzzo;Figgis Merluzzo;Figgis;;Dwarf;Male;;;;;;"Blacksmith
+Soldier";
+55;https://witcher.fandom.com/wiki/Fiona;Fiona;Fiona;Deceased;Quarter-elf;Female;;{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (father)', 'https://witcher.fandom.com/wiki/Riannon': 'Riannon (mother)'};{'https://witcher.fandom.com/wiki/Corbett': 'Corbett (son)'};{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (brother)', 'https://witcher.fandom.com/wiki/Adela': 'Adela (sister)', 'https://witcher.fandom.com/wiki/Cedric_(king)': 'Cedric (king) (half-brother)'};{'https://witcher.fandom.com/wiki/Coram_II': 'Coram II (husband)'};;
+56;https://witcher.fandom.com/wiki/Flourens_Delannoy;Flourens Delannoy;Flourens;Deceased;Human;Male;;;;;;Historian;
+57;https://witcher.fandom.com/wiki/Francesca_Findabair;Francesca Findabair;Francesca;;Aen Seidhe Elf;Female;;{'https://witcher.fandom.com/wiki/Simlas_Finn_aep_Dabairr': 'Simlas Finn aep Dabairr (father, disowned)'};;;;Mage;Magic
+58;https://witcher.fandom.com/wiki/Fringilla_Vigo;Fringilla Vigo;Fringilla;;Human;Female;(?);;;{'https://witcher.fandom.com/wiki/Artorius_Vigo': 'Artorius Vigo (paternal uncle)', 'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (cousin)', 'https://witcher.fandom.com/wiki/Syanna': 'Syanna (cousin)'};{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (fling)'};Mage;Illusion magic
+59;https://witcher.fandom.com/wiki/Geralt_of_Rivia;Geralt of Rivia;Geralt;;Witcher Human;Male;;{'https://witcher.fandom.com/wiki/Visenna': 'Visenna (mother)', 'https://witcher.fandom.com/wiki/Korin': 'Korin (father)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (adopted daughter)'};;{'https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg': 'Yennefer of Vengerberg (Love of his life in books, possible lover in The Witcher 3)', 'https://witcher.fandom.com/wiki/The_Witcher_3': 'The Witcher 3 (former lover in books, possible lover in all three games)'};Witcher;"Superhuman abilities
+Swordsmanship
+Alchemy
+Signs"
+60;https://witcher.fandom.com/wiki/Gerhart_of_Aelle;Gerhart of Aelle;Gerhart;Deceased (died of a heart attack);Human;Male;;;;;;"Mage
+Author";"Magic
+Source"
+61;https://witcher.fandom.com/wiki/Giselher;Giselher;Giselher;Deceased (killed by Leo Bonhart);Human;Male;(?);;;;;;
+62;https://witcher.fandom.com/wiki/Goidemar;Goidemar;Goidemar;Deceased;Quarter-elf;Male;;{'https://witcher.fandom.com/wiki/Gardic': 'Gardic (father)', 'https://witcher.fandom.com/wiki/Vulpia': 'Vulpia (mother)'};{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (son)', 'https://witcher.fandom.com/wiki/Adela': 'Adela (daughter)', 'https://witcher.fandom.com/wiki/Fiona': 'Fiona (son)'};{'https://witcher.fandom.com/wiki/Leticia_Charbonneau': 'Leticia Charbonneau (half-sister)'};{'https://witcher.fandom.com/wiki/Riannon': 'Riannon (first wife, deceased)', 'https://witcher.fandom.com/wiki/Adda_of_Cidaris': 'Adda of Cidaris (second wife)'};;
+63;https://witcher.fandom.com/wiki/Havekar;Havekar;Havekar;;Unknown;;;;;;;;
+64;https://witcher.fandom.com/wiki/Hector_Laabs;Hector Laabs;Hector;;Human;Male;;;;;;"Village elder
+Judge";
+65;https://witcher.fandom.com/wiki/Hedwig_of_Malleore;Hedwig of Malleore;Hedwig;;Human;Female;;;{'https://witcher.fandom.com/wiki/Dalimira': 'Dalimira (daughter)', 'https://witcher.fandom.com/wiki/Milena': 'Milena (daughter)', 'https://witcher.fandom.com/wiki/Radovid_V': 'Radovid V (son)'};{'https://witcher.fandom.com/wiki/Blanka': 'Blanka (cousin)'};{'https://witcher.fandom.com/wiki/Vizimir_II': 'Vizimir II (husband)'};;
+66;https://witcher.fandom.com/wiki/Henselt;Henselt;Henselt;;Human;Male;;{'https://witcher.fandom.com/wiki/Radowit_II': 'Radowit II (father, possibly)'};;;;;
+67;https://witcher.fandom.com/wiki/Houtborg_triplets;Houtborg triplets;Houtborg;;Unknown;;;;;;;;
+68;https://witcher.fandom.com/wiki/Ida_Emean_aep_Sivney;Ida Emean aep Sivney;Ida;;Aen Seidhe Elf;Female;;;;;;Mage;Magic
+69;https://witcher.fandom.com/wiki/Iorweth;Iorweth;Iorweth;;Aen Seidhe Elf;Male;;;;;;"Guerrilla fighter
+Unit commander";"Bowmanship
+Melee combat (incl. dual-wielding)
+Playing the flute
+Swordsmanship"
+70;https://witcher.fandom.com/wiki/Isengrim_Faoiltiarna;Isengrim Faoiltiarna;Isengrim;;Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+71;https://witcher.fandom.com/wiki/Iskra;Iskra;Iskra;Deceased (killed by Leo Bonhart);Wood Elf;Female;;;;;{'https://witcher.fandom.com/wiki/Giselher': 'Giselher (lover)'};;
+72;https://witcher.fandom.com/wiki/Istredd;Istredd;Istredd;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg': 'Yennefer of Vengerberg (lover, sporadically)'};Mage;Magic
+73;https://witcher.fandom.com/wiki/Ithlinne;Ithlinne;Ithlinne;;Elf;Female;;{'https://witcher.fandom.com/wiki/Aevenien': 'Aevenien (mother)'};;;;"Astrologer
+Healer
+Soothsayer";
+74;https://witcher.fandom.com/wiki/Jacob_Fenn;Jacob Fenn;Jacob;Deceased (burnt alive by Schirrú);Human;Male;;;;;;Jurist;
+75;https://witcher.fandom.com/wiki/Jan_Lennep;Jan Lennep;Jan;Deceased (hanged);Human;Male;;;;;;"Agent
+Spy";
+76;https://witcher.fandom.com/wiki/Jan_Struycken;Jan Struycken;Jan;;Human;Male;;;;;;Intelligence officer;
+77;https://witcher.fandom.com/wiki/Jolie_Lanier;Jolie Lanier;Jolie;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Count_Lanier': 'Count Lanier (father)'};;;;;
+78;https://witcher.fandom.com/wiki/Kayleigh;Kayleigh;Kayleigh;Deceased (killed by Leo Bonhart);Human;Male;;;;;;;
+79;https://witcher.fandom.com/wiki/Keira_Metz;Keira Metz;Keira;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Lambert': 'Lambert (dependent)'};"Advisor
+Mage";Magic
+80;https://witcher.fandom.com/wiki/Kolda;Kolda;Kolda;Deceased;Human;Male;;;;;;Havekar;
+81;https://witcher.fandom.com/wiki/Lara_Dorren;Lara Dorren;Lara;Deceased;Aen Elle Elf;Female;;{'https://witcher.fandom.com/wiki/Auberon_Muircetach': 'Auberon Muircetach (father)', 'https://witcher.fandom.com/wiki/Shiadhal': 'Shiadhal (mother)'};{'https://witcher.fandom.com/wiki/Riannon': 'Riannon (daughter)'};{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (grandson)', 'https://witcher.fandom.com/wiki/Adela': 'Adela (granddaughter)', 'https://witcher.fandom.com/wiki/Fiona': 'Fiona (descendant)'};{'https://witcher.fandom.com/wiki/Cregennan_of_Lod': 'Cregennan of Lod (lover)'};Mage;
+82;https://witcher.fandom.com/wiki/Leo_Bonhart;Leo Bonhart;Leo;Deceased (killed by Ciri);Human;Male;;;;{'https://witcher.fandom.com/wiki/Dominik_Bombastus_Houvenaghel': 'Dominik Bombastus Houvenaghel (cousin)'};;"Soldier (formerly)
+Peddler (formerly)
+Bounty hunter";Swordsmanship
+83;https://witcher.fandom.com/wiki/Leticia_Charbonneau;Leticia Charbonneau;Leticia;Deceased;Quarter-elf;Female;;{'https://witcher.fandom.com/wiki/Gardic': 'Gardic (father)', 'https://witcher.fandom.com/wiki/Carezza_Charbonneau': 'Carezza Charbonneau (mother)'};;{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (half-brother)'};;"Rectoress of Aretuza
+Mage";Magic
+84;https://witcher.fandom.com/wiki/Lucretia_Vigo;Lucretia Vigo;Lucretia;;Human;Female;;;;{'https://witcher.fandom.com/wiki/Fringilla_Vigo': 'Fringilla Vigo (great-great-great-grandmother)', 'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (supposed great-great-great-grandfather)'};;Mage;
+85;https://witcher.fandom.com/wiki/Margarita_Laux-Antille;Margarita Laux-Antille;Margarita;;Human;Female;;;;{'https://witcher.fandom.com/wiki/Ilona_Laux-Antille': 'Ilona Laux-Antille (grandmother)'};{'https://witcher.fandom.com/wiki/Lars': 'Lars (formerly)'};"Rectoress of Aretuza
+Mage";Magic
+86;https://witcher.fandom.com/wiki/Merlin;Merlin;Merlin;;Unknown;Male;;;;;;;
+87;https://witcher.fandom.com/wiki/Meve;Meve;Meve;;Human;Female;;{'https://witcher.fandom.com/wiki/Kalis': 'Kalis (mother)'};{'https://witcher.fandom.com/wiki/Villem': 'Villem (son)'};{'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (unknown degree)'};{'https://witcher.fandom.com/wiki/Reginald': 'Reginald (husband)'};;
+88;https://witcher.fandom.com/wiki/Milenka;Milenka;Milenka;;Human;Female;;{'https://witcher.fandom.com/wiki/Tuzik': 'Tuzik (father)'};;;;;
+89;https://witcher.fandom.com/wiki/Millet;Millet;Millet;Deceased (shot by Jacob Fenn);Human;Male;;;;;;Assassin;
+90;https://witcher.fandom.com/wiki/Milva;Milva;Milva;Deceased (killed by an arrow);Human;Female;;;;;;;"Bowmanship
+Equestrianism"
+91;https://witcher.fandom.com/wiki/Mistle;Mistle;Mistle;Deceased (killed by Leo Bonhart);Human;Female;;;;;;;
+92;https://witcher.fandom.com/wiki/Morteisen;Morteisen;Morteisen;Deceased (killed during the Battle for the Bridge on the Yaruga);Human;Male;;;;;;Soldier;
+93;https://witcher.fandom.com/wiki/Munro_Bruys;Munro Bruys;Munro;;Dwarf;Male;;;;;;"Bouncer[1]
+Soldier (formerly)";
+94;https://witcher.fandom.com/wiki/Muriel;Muriel;Muriel;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Anna_Kameny': 'Anna Kameny (mother)', 'https://witcher.fandom.com/wiki/Roger_Kameny': 'Roger Kameny (supposed father)', 'https://witcher.fandom.com/wiki/Amavet': 'Amavet (biological father)'};{'https://witcher.fandom.com/wiki/Robert_II_of_Garramone': 'Robert II of Garramone (son)', 'https://witcher.fandom.com/wiki/Adalia': 'Adalia (daughter)', 'https://witcher.fandom.com/wiki/Jolanta_de_Ruyter': 'Jolanta de Ruyter (daughter)', 'https://witcher.fandom.com/wiki/Julia_de_Ruyter': 'Julia de Ruyter (daughter)', 'https://witcher.fandom.com/wiki/Joanna_de_Ruyter': 'Joanna de Ruyter (daughter)'};{'https://witcher.fandom.com/wiki/Crispin': 'Crispin (twin brother)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (great-great-granddaughter)', 'https://witcher.fandom.com/wiki/Daniel_Etcheverry': 'Daniel Etcheverry (great-great-grandson)'};{'https://witcher.fandom.com/wiki/Robert_of_Garramone': 'Robert of Garramone (first husband, deceased)', 'https://witcher.fandom.com/wiki/Count_de_Ruyter': 'Count de Ruyter (second husband)'};;
+95;https://witcher.fandom.com/wiki/Mykitka;Mykitka;Mykitka;;Human;Female;;;;;;;
+96;https://witcher.fandom.com/wiki/Nazarian;Nazarian;Nazarian;;Human;Male;;;;;;Assassin;Swordsmanship
+97;https://witcher.fandom.com/wiki/Nimue_verch_Wledyr_ap_Gwyn;Nimue verch Wledyr ap Gwyn;Nimue;;Human;Female;;{'https://witcher.fandom.com/wiki/Wledyr': 'Wledyr (father)'};;{'https://witcher.fandom.com/wiki/Orla': 'Orla (sister)'};{'https://witcher.fandom.com/wiki/Fisher_King_(lover_of_Nimue)': 'Fisher King (lover of Nimue) (lover)'};Mage;
+98;https://witcher.fandom.com/wiki/Ori_Reuven;Ori Reuven;Ori;Deceased;Human;Male;;;;;;Assistant;
+99;https://witcher.fandom.com/wiki/Orla;Orla;Orla;;Human;Female;;{'https://witcher.fandom.com/wiki/Wledyr': 'Wledyr (father)'};;{'https://witcher.fandom.com/wiki/Nimue': 'Nimue (sister)'};;;
+100;https://witcher.fandom.com/wiki/Papebrock;Papebrock;Papebrock;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Valerian_Papebrock': 'Valerian Papebrock (ancestor)', 'https://witcher.fandom.com/wiki/Brigida_Papebrock': 'Brigida Papebrock (unknown relation)'};;Knight;
+101;https://witcher.fandom.com/wiki/Percival_Schuttenbach;Percival Schuttenbach;Percival;;Gnome;Male;;;;;;"Jeweler
+Metallurgist";
+102;https://witcher.fandom.com/wiki/Philippa_Eilhart;Philippa Eilhart;Philippa;Deceased (killed by Willemer's men)[1];Human;Female;;;;;{'https://witcher.fandom.com/wiki/Sigismund_Dijkstra': 'Sigismund Dijkstra (lover, formerly)', 'https://witcher.fandom.com/wiki/Cynthia': 'Cynthia (lover, formerly)'};"Advisor
+Mage";"Magic
+Polymorphy (owl)"
+103;https://witcher.fandom.com/wiki/Pinto;Pinto;Pinto;;Human;Male;;;;;;"Leader of a band
+Horse thief";
+104;https://witcher.fandom.com/wiki/Radovid_V;Radovid V;Radovid V;;Human;Male;;{'https://witcher.fandom.com/wiki/Hedwig_of_Malleore': 'Hedwig of Malleore (mother)', 'https://witcher.fandom.com/wiki/Vizimir_II': 'Vizimir II (father)'};;{'https://witcher.fandom.com/wiki/Dalimira': 'Dalimira (sister)', 'https://witcher.fandom.com/wiki/Milena': 'Milena (sister)'};{'https://witcher.fandom.com/wiki/Adda_the_White': 'Adda the White (wife, optional)'};;
+105;https://witcher.fandom.com/wiki/Reef;Reef;Reef;Deceased (killed by Leo Bonhart);Human;Male;;;;;;;
+106;https://witcher.fandom.com/wiki/Reynard_Odo;Reynard Odo;Reynard;;Human;Male;;;;;;Knight;
+107;https://witcher.fandom.com/wiki/Riannon;Riannon;Riannon;Deceased;Half-elf;Female;;{'https://witcher.fandom.com/wiki/Lara_Dorren': 'Lara Dorren (mother)', 'https://witcher.fandom.com/wiki/Cregennan_of_Lod': 'Cregennan of Lod (father)', 'https://witcher.fandom.com/wiki/Cerro': 'Cerro (adoptive mother)', 'https://witcher.fandom.com/wiki/Vridank': 'Vridank (adoptive father)'};{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (son)', 'https://witcher.fandom.com/wiki/Adela': 'Adela (daughter)'};{'https://witcher.fandom.com/wiki/Falka': 'Falka (adoptive sister)', 'https://witcher.fandom.com/wiki/Heltmult': 'Heltmult (adoptive brother)', 'https://witcher.fandom.com/wiki/Denhard': 'Denhard (adoptive brother)', 'https://witcher.fandom.com/wiki/Muriel': 'Muriel (granddaughter)', 'https://witcher.fandom.com/wiki/Crispin': 'Crispin (grandson)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (descendant)'};{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (husband)'};;
+108;https://witcher.fandom.com/wiki/Rience;Rience;Rience;Deceased (drowned in Tarn Mira);Human;Male;;;;;;Mage;Magic
+109;https://witcher.fandom.com/wiki/Riordain;Riordain;Riordain;Deceased (executed);Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+110;https://witcher.fandom.com/wiki/Roach;Roach;Roach;;Unknown;"Female (books and games)
+Male (dependent in The Witcher 3: Wild Hunt)";;;;;;;
+111;https://witcher.fandom.com/wiki/Robert_of_Garramone;Robert of Garramone;Robert;Deceased (killed in battle);Human;Male;;;{'https://witcher.fandom.com/wiki/Adalia': 'Adalia (daughter)', 'https://witcher.fandom.com/wiki/Robert_II_of_Garramone': 'Robert II of Garramone (son)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (great-great-granddaughter)', 'https://witcher.fandom.com/wiki/Daniel_Etcheverry': 'Daniel Etcheverry (great-great-grandson)'};{'https://witcher.fandom.com/wiki/Muriel': 'Muriel (wife)'};;
+112;https://witcher.fandom.com/wiki/Roger_Kameny;Roger Kameny;Roger;Deceased (sentenced to death);Human;Male;;;;;{'https://witcher.fandom.com/wiki/Anna_Kameny': 'Anna Kameny (wife)'};;
+113;https://witcher.fandom.com/wiki/Sabrina_Glevissig;Sabrina Glevissig;Sabrina;;Human;Female;;;;{'https://witcher.fandom.com/wiki/Jade_Glevissig': 'Jade Glevissig (ancestor)'};;"Advisor
+Mage";Magic
+114;https://witcher.fandom.com/wiki/Schirr%C3%BA;Schirrú;Schirrú;Deceased (burned alive);Half-elf;Male;;;;;;Assassin;
+115;https://witcher.fandom.com/wiki/Servadio;Servadio;Servadio;;Human;Male;(?);;;;;Spy;
+116;https://witcher.fandom.com/wiki/Sheala_de_Tancarville;Sheala de Tancarville;Sheala;;Human;Female;;;;;;"Advisor
+Researcher
+Mage";Magic
+117;https://witcher.fandom.com/wiki/Shilard_Fitz-Oesterlen;Shilard Fitz-Oesterlen;Shilard;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Fitz-Oesterlen_(cadet)': 'Fitz-Oesterlen (cadet) (likely)'};;Ambassador of Nilfgaard;
+118;https://witcher.fandom.com/wiki/Sievers;Sievers;Sievers;;Human;Male;;;;;;Soldier;
+119;https://witcher.fandom.com/wiki/Sigismund_Dijkstra;Sigismund Dijkstra;Sigismund;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Philippa_Eilhart': 'Philippa Eilhart (lover)', 'https://witcher.fandom.com/wiki/Marie_de_Mercey': 'Marie de Mercey (lover)'};"Spymaster
+Chancellor";
+120;https://witcher.fandom.com/wiki/Silvester_Bugiardo;Silvester Bugiardo;Silvester;;Human;Male;;;;;;Author;
+121;https://witcher.fandom.com/wiki/Simlas_Finn_aep_Dabairr;Simlas Finn aep Dabairr;Simlas;;Aen Seidhe Elf;Male;;;{'https://witcher.fandom.com/wiki/Francesca_Findabair': 'Francesca Findabair (daughter)'};;;Aen Saevherne;
+122;https://witcher.fandom.com/wiki/Sirssa;Sirssa;Sirssa;;Dryad;Female;Brokilonian;;;;;;
+123;https://witcher.fandom.com/wiki/Stefan_Skellen;Stefan Skellen;Stefan;Deceased (executed by hanging);Human;Male;;{'https://witcher.fandom.com/wiki/Bertram_Skellen': 'Bertram Skellen (father)'};;;{'https://witcher.fandom.com/wiki/Chloe_Stitz': 'Chloe Stitz (lover)'};;
+124;https://witcher.fandom.com/wiki/Stella_Congreve;Stella Congreve;Stella;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Otto_de_Congreve': 'Otto de Congreve (father)'};;;;;
+125;https://witcher.fandom.com/wiki/Stribog;Stribog;Stribog;;Human;Male;;;;;;Storyteller;
+126;https://witcher.fandom.com/wiki/Stucco_Zangenis;Stucco Zangenis;Stucco;;Human;Male;;;;;;Mage;Magic
+127;https://witcher.fandom.com/wiki/Talbot;Talbot;Talbot;;Human;Male;;;;;;Editor;
+128;https://witcher.fandom.com/wiki/Tissaia_de_Vries;Tissaia de Vries;Tissaia;Deceased (commited suicide by slitting her wrists);Human;Female;;;;;;"Rectoress of Aretuza (formerly)
+Mage
+Author";Magic
+129;https://witcher.fandom.com/wiki/Toruviel;Toruviel;Toruviel;;Aen Seidhe Elf;Female;;;;;;;Swordsmanship
+130;https://witcher.fandom.com/wiki/Triss_Merigold;Triss Merigold;Triss;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (former lover in books, possible lover in games)'};"Advisor
+Mage";"Magic
+Alchemy"
+131;https://witcher.fandom.com/wiki/Tugdual;Tugdual;Tugdual;;Human;Male;;;;;;Mage;Magic
+132;https://witcher.fandom.com/wiki/Tuzik;Tuzik;Tuzik;;Human;Male;;;{'https://witcher.fandom.com/wiki/Milenka': 'Milenka (daughter)'};;;;
+133;https://witcher.fandom.com/wiki/Vanadain;Vanadain;Vanadain;;Aen Seidhe Elf;Male;;;;;;;
+134;https://witcher.fandom.com/wiki/Vascoigne;Vascoigne;Vascoigne;;Human;Male;;;;;;"Drakenborg deputy commander (formerly)
+Drakenborg fort commandant";
+135;https://witcher.fandom.com/wiki/Vattier_de_Rideaux;Vattier de Rideaux;Vattier;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Carthia_van_Canten': 'Carthia van Canten (lover)'};Spymaster;
+136;https://witcher.fandom.com/wiki/Vera_Loewenhaupt;Vera Loewenhaupt;Vera;Deceased;Human;Female;;;;;;Merchant;
+137;https://witcher.fandom.com/wiki/Vilgefortz;Vilgefortz;Vilgefortz;Deceased (killed by Geralt);Human;Male;;;;;;"Druid
+Mercenary
+Mage
+Spy (formerly)";"Stick-fighting (staff)
+Magic"
+138;https://witcher.fandom.com/wiki/Vissegerd;Vissegerd;Vissegerd;;Human;Male;;;;;;;
+139;https://witcher.fandom.com/wiki/Vizimir_II;Vizimir II;Vizimir II;Deceased (killed by an elven assassin);Human;Male;;{'https://witcher.fandom.com/wiki/Heribert': 'Heribert (father)', 'https://witcher.fandom.com/wiki/Diana_de_Saint-Villiers': 'Diana de Saint-Villiers (mother)'};{'https://witcher.fandom.com/wiki/Radovid_V': 'Radovid V (son)', 'https://witcher.fandom.com/wiki/Milena': 'Milena (daughter)', 'https://witcher.fandom.com/wiki/Dalimira': 'Dalimira (daughter)'};;{'https://witcher.fandom.com/wiki/Hedwig_of_Malleore': 'Hedwig of Malleore (wife)'};;
+140;https://witcher.fandom.com/wiki/Vreemde;Vreemde;Vreemde;;Human;Male;;;;;;Soldier;
+141;https://witcher.fandom.com/wiki/Vridank;Vridank;Vridank;Deceased (killed during Falka's rebellion);Human;Male;;{'https://witcher.fandom.com/wiki/Radovid_III': 'Radovid III (father)', 'https://witcher.fandom.com/wiki/Viviana': 'Viviana (mother)'};{'https://witcher.fandom.com/wiki/Falka': 'Falka (daughter)', 'https://witcher.fandom.com/wiki/Heltmult': 'Heltmult (son)', 'https://witcher.fandom.com/wiki/Denhard': 'Denhard (son)', 'https://witcher.fandom.com/wiki/Riannon': 'Riannon (adoptive daughter)'};{'https://witcher.fandom.com/wiki/Vizimir_I': 'Vizimir I (uncle)'};{'https://witcher.fandom.com/wiki/Beatrix_of_Kovir': 'Beatrix of Kovir (first wife, divorced)', 'https://witcher.fandom.com/wiki/Cerro': 'Cerro (second wife)'};;
+142;https://witcher.fandom.com/wiki/Xarthisius;Xarthisius;Xarthisius;;Human;Male;;;;;;Astrologer;Astromancy
+143;https://witcher.fandom.com/wiki/Yazon_Varda;Yazon Varda;Yazon;Deceased (killed during a battle on the Yaruga);Dwarf;Male;;;;;;"Blacksmith
+Soldier";
+144;https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg;Yennefer of Vengerberg;Yennefer;;Quarter-elf;Female;;;{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (adopted daughter)'};;{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (love of her life in books, possible lover in games)', 'https://witcher.fandom.com/wiki/Istredd': 'Istredd (lover, formerly)', 'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (lover, formerly)'};"Advisor
+Mage";Magic
+145;https://witcher.fandom.com/wiki/Zgarba;Zgarba;Zgarba;;Human;Male;;;;;;Cartwright;
+146;https://witcher.fandom.com/wiki/Zoltan_Chivay;Zoltan Chivay;Zoltan;;Dwarf;Male;;;;;{'https://witcher.fandom.com/wiki/Eudora_Breckenriggs': 'Eudora Breckenriggs (fiancée)'};;Swordsmanship
+147;https://witcher.fandom.com/wiki/Blood_of_Elves_minor_characters;Blood of Elves minor characters;Blood;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Blood_of_Elves_minor_characters#Loach': 'Blood of Elves minor characters (husband)'};Knight;
+148;https://witcher.fandom.com/wiki/Abrad_the_Old_Oak;Abrad the Old Oak;Abrad;;Human;Male;;;;"{'https://witcher.fandom.com/wiki/Sambuk': 'Sambuk (ancestor?)', 'https://witcher.fandom.com/wiki/Radovid_I': 'Radovid I (descendant)', 'https://witcher.fandom.com/wiki/Abrad_%22Jack-up-the-Skirt%22': 'Abrad ""Jack-up-the-Skirt"" (descendant?)'}";;;
+149;https://witcher.fandom.com/wiki/Aelirenn;Aelirenn;Aelirenn;Deceased (killed in battle);Aen Seidhe Elf;Female;;;;;;;
+150;https://witcher.fandom.com/wiki/Agnes_of_Glanville;Agnes of Glanville;Agnes;Deceased;Human;Female;;;;;;"Mage
+Author";"Air-based magic
+Source"
+151;https://witcher.fandom.com/wiki/Anna_Tiller;Anna Tiller;Anna;;Unknown;Female;;;;;;Author;
+152;https://witcher.fandom.com/wiki/Ans%C3%A9is;Anséis;Anséis;;Human;Male;;{'https://witcher.fandom.com/wiki/Meve': 'Meve (mother)', 'https://witcher.fandom.com/wiki/Reginald': 'Reginald (father)'};;{'https://witcher.fandom.com/wiki/Villem': 'Villem (brother)'};{'https://witcher.fandom.com/wiki/Carthia_van_Canten': 'Carthia van Canten (lover)'};Knight;
+153;https://witcher.fandom.com/wiki/Axel_Esparza;Axel Esparza;Axel;Deceased (killed during the Battle of Sodden Hill);Human;Male;;;;;;Mage;Magic
+154;https://witcher.fandom.com/wiki/Boatbug;Boatbug;Boatbug;;Human;Male;;;;;;Skipper;
+155;https://witcher.fandom.com/wiki/Boratek;Boratek;Boratek;;Human;Male;;;;;;Customs officer;
+156;https://witcher.fandom.com/wiki/Bronibor;Bronibor;Bronibor;Deceased (died during the Battle of Brenna);Human;Male;;;;;;Soldier;Swordsmanship
+157;https://witcher.fandom.com/wiki/Carla_Demetia_Crest;Carla Demetia Crest;Carla;Deceased;Human;Female;;;;;;Mage;Magic
+158;https://witcher.fandom.com/wiki/Co%C3%ABn;Coën;Coën;Deceased (stabbed during the Battle of Brenna);Witcher Human;Male;;;;;;Witcher;"Superhuman abilities
+Swordsmanship
+Alchemy
+Signs"
+159;https://witcher.fandom.com/wiki/Crach_an_Craite;Crach an Craite;Crach;Deceased (killed by Eredin, games);Human;Male;;{};{'https://witcher.fandom.com/wiki/Hjalmar_an_Craite': 'Hjalmar an Craite (son)', 'https://witcher.fandom.com/wiki/Cerys_an_Craite': 'Cerys an Craite (daughter)', 'https://witcher.fandom.com/wiki/Ragnar': 'Ragnar (son)'};{'https://witcher.fandom.com/wiki/Bran_Tuirseach': 'Bran Tuirseach (maternal uncle)', 'https://witcher.fandom.com/wiki/Eist_Tuirseach': 'Eist Tuirseach (maternal uncle)', 'https://witcher.fandom.com/wiki/Svanrige_Tuirseach': 'Svanrige Tuirseach (first cousin)', 'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (aunt)'};{'https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg': 'Yennefer of Vengerberg (formerly)'};;
+160;https://witcher.fandom.com/wiki/Dezmod;Dezmod;Dezmod;Deceased;Human;Male;;;{'https://witcher.fandom.com/wiki/Abdank': 'Abdank (son)'};;;;
+161;https://witcher.fandom.com/wiki/Donimir_of_Troy;Donimir of Troy;Donimir;;Human;Male;;;;;;Knight;
+162;https://witcher.fandom.com/wiki/Duke_de_Ruyter;Duke de Ruyter;Duke;Deceased;Unknown;Male;;;;;;"Commander
+Author";
+163;https://witcher.fandom.com/wiki/Edmund_Bumbler;Edmund Bumbler;Edmund;;Human;Male;;;;;;Zoology lecturer;
+164;https://witcher.fandom.com/wiki/Eist_Tuirseach;Eist Tuirseach;Eist;Deceased (shot in the left eye during the Battle of Marnadal);Human;Male;;;;"{'https://witcher.fandom.com/wiki/Bran_Tuirseach': 'Bran Tuirseach (brother)', 'https://witcher.fandom.com/wiki/Crach%27s_mother': ""Crach's mother (sister)"", 'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (nephew)', 'https://witcher.fandom.com/wiki/Svanrige_Tuirseach': 'Svanrige Tuirseach (nephew)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (stepgranddaughter)'}";{'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (wife)'};;
+165;https://witcher.fandom.com/wiki/Ekkehard_of_Sodden;Ekkehard of Sodden;Ekkehard;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Gutram': 'Gutram (father)'};;{'https://witcher.fandom.com/wiki/Sancia_of_Sodden': 'Sancia of Sodden (half-sister)', 'https://witcher.fandom.com/wiki/Foltest': 'Foltest (half-nephew)'};;;
+166;https://witcher.fandom.com/wiki/Ervyll;Ervyll;Ervyll;Deceased (assassinated);Human;Male;;;{'https://witcher.fandom.com/wiki/Kistrin': 'Kistrin (son)'};;{'https://witcher.fandom.com/wiki/Eliza': 'Eliza (wife)'};;
+167;https://witcher.fandom.com/wiki/Eskel;Eskel;Eskel;;Witcher Human;Male;;;;;;Witcher;"Superhuman abilities
+Swordsmanship
+Alchemy
+Signs"
+168;https://witcher.fandom.com/wiki/Essi_Daven;Essi Daven;Essi;Deceased (smallpox);Human;Female;[2];;;{'https://witcher.fandom.com/wiki/Ellen_Daven': 'Ellen Daven (sister)'};{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (fling)'};Trobairitz;
+169;https://witcher.fandom.com/wiki/Esterad_Thyssen;Esterad Thyssen;Esterad;Deceased (killed by assassins);Human;Male;;{'https://witcher.fandom.com/wiki/Blanka': 'Blanka (mother)', 'https://witcher.fandom.com/wiki/Baldwin_Thyssen': 'Baldwin Thyssen (father)'};{'https://witcher.fandom.com/wiki/Gaudemunda_Thyssen': 'Gaudemunda Thyssen (daughter)', 'https://witcher.fandom.com/wiki/Heloiza_Thyssen': 'Heloiza Thyssen (daughter)', 'https://witcher.fandom.com/wiki/Tankred_Thyssen': 'Tankred Thyssen (son)'};{'https://witcher.fandom.com/wiki/Demavend_III': 'Demavend III (second cousin)'};{'https://witcher.fandom.com/wiki/Zuleyka': 'Zuleyka (wife)'};;
+170;https://witcher.fandom.com/wiki/Eurneid;Eurneid;Eurneid;;Human;Female;;;;;;Priestess;
+171;https://witcher.fandom.com/wiki/Everett;Everett;Everett;;Human;Male;;;;;;Professor at Oxenfurt Academy;
+172;https://witcher.fandom.com/wiki/Fercart;Fercart;Fercart;Deceased (killed during the Thanedd coup);Human;Male;;;;;;Mage;Magic
+173;https://witcher.fandom.com/wiki/Flavius_Michelet;Flavius Michelet;Flavius;Deceased (killed by Geralt of Rivia);Human;Male;;;;{'https://witcher.fandom.com/wiki/Lodovico_Michelet': 'Lodovico Michelet (brother)', 'https://witcher.fandom.com/wiki/Rizzi_Michelet': 'Rizzi Michelet (brother)', 'https://witcher.fandom.com/wiki/Toublanc_Michelet': 'Toublanc Michelet (brother)'};;Professional killer;Swordsmanship
+174;https://witcher.fandom.com/wiki/Foltest;Foltest;Foltest;Deceased (game canon, assassinated by Letho);Human;Male;;{'https://witcher.fandom.com/wiki/Sancia_of_Sodden': 'Sancia of Sodden (mother)', 'https://witcher.fandom.com/wiki/Medell': 'Medell (father)'};{'https://witcher.fandom.com/wiki/Adda_the_White': 'Adda the White (daughter)', 'https://witcher.fandom.com/wiki/Ana%C3%AFs_La_Valette': 'Anaïs La Valette (daughter)', 'https://witcher.fandom.com/wiki/Boussy_La_Valette': 'Boussy La Valette (son)'};{'https://witcher.fandom.com/wiki/Adda_of_Temeria': 'Adda of Temeria (sister)', 'https://witcher.fandom.com/wiki/Ekkehard_of_Sodden': 'Ekkehard of Sodden (maternal uncle)', 'https://witcher.fandom.com/wiki/Meve': 'Meve (cousin)', 'https://witcher.fandom.com/wiki/Jurkast': 'Jurkast (distant cousin)'};{'https://witcher.fandom.com/wiki/Adda_of_Temeria': 'Adda of Temeria (sister/lover)', 'https://witcher.fandom.com/wiki/Maria_Louisa_La_Valette': 'Maria Louisa La Valette (lover)'};;
+175;https://witcher.fandom.com/wiki/Geoffrey_Monck;Geoffrey Monck;Geoffrey;Deceased;Human;Male;;;;;;Mage;Magic
+176;https://witcher.fandom.com/wiki/Giambattista;Giambattista;Giambattista;Deceased;Human;Male;;;;;;Mage;Magic
+177;https://witcher.fandom.com/wiki/Griffin_of_Temeria;Griffin of Temeria;Griffin;Deceased (heart attack);Human;Male;;{'https://witcher.fandom.com/wiki/Cedric_(king)': 'Cedric (king) (father)', 'https://witcher.fandom.com/wiki/Berengaria_Thyssen': 'Berengaria Thyssen (mother)'};{'https://witcher.fandom.com/wiki/Bienvenu_La_Louve': 'Bienvenu La Louve (daughter)'};;{'https://witcher.fandom.com/wiki/Clarissa_of_Toussaint': 'Clarissa of Toussaint (wife)'};;
+178;https://witcher.fandom.com/wiki/Gruzila;Gruzila;Gruzila;;Human;Male;;;;;;Bouncer at Mama Lantieri's;
+179;https://witcher.fandom.com/wiki/Herbert_Stammelford;Herbert Stammelford;Herbert;Deceased;Human;Male;;;;;;Mage;Magic
+180;https://witcher.fandom.com/wiki/Hereward;Hereward;Hereward;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Herevard_II': 'Herevard II (unknown relation)'};{'https://witcher.fandom.com/wiki/Ermellia': 'Ermellia (wife)'};;
+181;https://witcher.fandom.com/wiki/Hrosvitha;Hrosvitha;Hrosvitha;;Human;Female;;;;;;"Priestess
+Instructor";
+182;https://witcher.fandom.com/wiki/Iola;Iola;Iola;;Human;Female;;;;;;Priestess;
+183;https://witcher.fandom.com/wiki/Iola_the_Second;Iola the Second;Iola;Deceased (Catriona plague);Human;Female;;;;;;"Priestess
+Field medic";
+184;https://witcher.fandom.com/wiki/Ironware;Ironware;Ironware;;Gnome;Male;;;;;;Manufacturer of ironwares;
+185;https://witcher.fandom.com/wiki/Ivo_Richert;Ivo Richert;Ivo;Deceased;Human;Male;;;;;;"Author
+Mage";Magic
+186;https://witcher.fandom.com/wiki/Jan_Bekker;Jan Bekker;Jan;Deceased;Human;Male;;;;;;"Mage
+Author";Magic
+187;https://witcher.fandom.com/wiki/Jarre;Jarre;Jarre;;Human;Male;;;;"{'https://witcher.fandom.com/wiki/Ciri_(Jarre%27s_granddaughter)': ""Ciri (Jarre's granddaughter) (youngest granddaughter)""}";{'https://witcher.fandom.com/wiki/Lucienne': 'Lucienne (wife)'};"Scribe
+Author
+Soldier (formerly)";
+188;https://witcher.fandom.com/wiki/Katje;Katje;Katje;;Human;Female;;;;;;Priestess;
+189;https://witcher.fandom.com/wiki/Kistrin;Kistrin;Kistrin;;Human;Male;;{'https://witcher.fandom.com/wiki/Ervyll': 'Ervyll (father)', 'https://witcher.fandom.com/wiki/Eliza': 'Eliza (mother, possibly)'};;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (uncle)'};;;
+190;https://witcher.fandom.com/wiki/Lambert;Lambert;Lambert;;Witcher Human;Male;;;;;{'https://witcher.fandom.com/wiki/Keira_Metz': 'Keira Metz (optional)'};Witcher;"Superhuman abilities
+Swordsmanship
+Alchemy
+Signs"
+191;https://witcher.fandom.com/wiki/Linus_Pitt;Linus Pitt;Linus;;Human;Male;;;;;;Lecturer at Oxenfurt Academy;
+192;https://witcher.fandom.com/wiki/Lodovico_Michelet;Lodovico Michelet;Lodovico;Deceased (killed by Geralt of Rivia);Human;Male;;;;{'https://witcher.fandom.com/wiki/Flavius_Michelet': 'Flavius Michelet (brother)', 'https://witcher.fandom.com/wiki/Rizzi_Michelet': 'Rizzi Michelet (brother)', 'https://witcher.fandom.com/wiki/Toublanc_Michelet': 'Toublanc Michelet (brother)'};;Professional killer;Swordsmanship
+193;https://witcher.fandom.com/wiki/Lucas_Corto;Lucas Corto;Lucas;;Dwarf;Male;;;;;;"Adventurer
+Dragon slayer
+Mercenary";
+194;https://witcher.fandom.com/wiki/Lydia_van_Bredevoort;Lydia van Bredevoort;Lydia;Deceased (stabbed beneath the sternum);Human;Female;;;;;;"Artist
+Mage
+Secretary";Magic
+195;https://witcher.fandom.com/wiki/Lytta_Neyd;Lytta Neyd;Lytta;Deceased (killed during the Battle of Sodden Hill);Human;Female;;;;;{'https://witcher.fandom.com/wiki/Algernon_Guincamp': 'Algernon Guincamp (lover, formerly)', 'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (lover, briefly)'};"Advisor
+Mage";Magic
+196;https://witcher.fandom.com/wiki/Mama_Lantieri;Mama Lantieri;Mama;;Human;Female; ?;;;;;Brothel owner;
+197;https://witcher.fandom.com/wiki/Maria_Louisa_La_Valette;Maria Louisa La Valette;Maria;;Human;Female;;;{'https://witcher.fandom.com/wiki/Aryan_La_Valette': 'Aryan La Valette (son)', 'https://witcher.fandom.com/wiki/Boussy_La_Valette': 'Boussy La Valette (son)', 'https://witcher.fandom.com/wiki/Ana%C3%AFs_La_Valette': 'Anaïs La Valette (daughter)'};{};{'https://witcher.fandom.com/wiki/Old_Baron_La_Valette': 'Old Baron La Valette (husband)', 'https://witcher.fandom.com/wiki/Foltest': 'Foltest (lover)'};;
+198;https://witcher.fandom.com/wiki/Marquis_La_Creahme;Marquis La Creahme;Marquis;;Unknown;Male;;;;;;Author;
+199;https://witcher.fandom.com/wiki/Medell;Medell;Medell;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Bienvenu_La_Louve': 'Bienvenu La Louve (mother)', 'https://witcher.fandom.com/wiki/Hugo_of_Rivia': 'Hugo of Rivia (father)'};{'https://witcher.fandom.com/wiki/Foltest': 'Foltest (son)', 'https://witcher.fandom.com/wiki/Adda_of_Temeria': 'Adda of Temeria (daughter)'};{'https://witcher.fandom.com/wiki/Adda_the_White': 'Adda the White (granddaughter)'};{'https://witcher.fandom.com/wiki/Sancia_of_Sodden': 'Sancia of Sodden (wife)'};;
+200;https://witcher.fandom.com/wiki/Menno_Coehoorn;Menno Coehoorn;Menno;Deceased (killed by Zoltan Chivay's company);Human;Male;(likely);;;;;Soldier;
+201;https://witcher.fandom.com/wiki/Michelet_brothers;Michelet brothers;Michelet;Dissolved;Unknown;;;;;;;;
+202;https://witcher.fandom.com/wiki/Milan_Raupenneck;Milan Raupenneck;Milan;Deceased;Human;Male;;;;;;;
+203;https://witcher.fandom.com/wiki/Myhrman;Myhrman;Myhrman;;Human;Male;;;;;;Merchant;
+204;https://witcher.fandom.com/wiki/Myrrha;Myrrha;Myrrha;Deceased (killed by Scoia'tael);Human;Female;;;;;;"Priestess
+Field medic";
+205;https://witcher.fandom.com/wiki/Nenneke;Nenneke;Nenneke;;Human;Female;;;;;;Abbess;Herbology, healing
+206;https://witcher.fandom.com/wiki/Nicodemus_de_Boot;Nicodemus de Boot;Nicodemus;;Human;Male;;;;;;"Chancellor of Oxenfurt Academy
+Author";
+207;https://witcher.fandom.com/wiki/Niedamir;Niedamir;Niedamir;;Human;Male;;{'https://witcher.fandom.com/wiki/Audoen': 'Audoen (father)'};;{};{'https://witcher.fandom.com/wiki/Podveyka': 'Podveyka (wife, deceased)'};;
+208;https://witcher.fandom.com/wiki/Old_Baron_La_Valette;Old Baron La Valette;Old;Deceased (games);Human;Male;;;{'https://witcher.fandom.com/wiki/Aryan_La_Valette': 'Aryan La Valette (son)', 'https://witcher.fandom.com/wiki/Boussy_La_Valette': 'Boussy La Valette (son)'};;{'https://witcher.fandom.com/wiki/Maria_Louisa_La_Valette': 'Maria Louisa La Valette (wife)'};;
+209;https://witcher.fandom.com/wiki/Olsen;Olsen;Olsen;;Human;Male;;;;;;"Soldier (formerly)
+Redanian customs officer";Archery
+210;https://witcher.fandom.com/wiki/Paulie_Dahlberg;Paulie Dahlberg;Paulie;Deceased (killed by Scoia'tael);Dwarf;Male;;;;{'https://witcher.fandom.com/wiki/Regan_Dahlberg': 'Regan Dahlberg (brother)'};;"Adventurer
+Dragon slayer
+Mercenary";
+211;https://witcher.fandom.com/wiki/Pavetta;Pavetta;Pavetta;Deceased (died out at sea);Human;Female;;{'https://witcher.fandom.com/wiki/Roegner_of_Ebbing': 'Roegner of Ebbing (father)', 'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (mother)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (daughter)'};;{'https://witcher.fandom.com/wiki/Duny': 'Duny (husband)'};;Source
+212;https://witcher.fandom.com/wiki/Pelligram;Pelligram;Pelligram;;Human;Male;;;;;;"Soldier
+Author";
+213;https://witcher.fandom.com/wiki/Podveyka;Podveyka;Podveyka;Deceased (likely poisoned);Human;Female;;;;;{'https://witcher.fandom.com/wiki/Niedamir': 'Niedamir (husband)'};;
+214;https://witcher.fandom.com/wiki/Radcliffe;Radcliffe;Radcliffe;;Human;Male;;;;;;Mage;Magic
+215;https://witcher.fandom.com/wiki/Radovid_I;Radovid I;Radovid I;Deceased;Unknown;Male;;;{'https://witcher.fandom.com/wiki/Dambor': 'Dambor (son)'};{'https://witcher.fandom.com/wiki/Troyden': 'Troyden (brother)', 'https://witcher.fandom.com/wiki/Abrad_the_Old_Oak': 'Abrad the Old Oak (ancestor)', 'https://witcher.fandom.com/wiki/Sambuk': 'Sambuk (ancestor)'};;;
+216;https://witcher.fandom.com/wiki/Radovid_III;Radovid III;Radovid III;Deceased (meningitis caused by a tick bite);Human;Male;;{'https://witcher.fandom.com/wiki/Radovid_II': 'Radovid II (father)', 'https://witcher.fandom.com/wiki/Cirra_of_Cintra': 'Cirra of Cintra (mother)'};{'https://witcher.fandom.com/wiki/Vridank': 'Vridank (presumably)'};{'https://witcher.fandom.com/wiki/Vizimir_I': 'Vizimir I (brother)', 'https://witcher.fandom.com/wiki/Ceran': 'Ceran (uncle)', 'https://witcher.fandom.com/wiki/Impecca': 'Impecca (aunt)', 'https://witcher.fandom.com/wiki/Coram_I': 'Coram I (uncle)', 'https://witcher.fandom.com/wiki/Rigoberta': 'Rigoberta (aunt)', 'https://witcher.fandom.com/wiki/Coram_II': 'Coram II (first cousin)'};{'https://witcher.fandom.com/wiki/Viviana': 'Viviana (wife)'};;
+217;https://witcher.fandom.com/wiki/Rayla;Rayla;Rayla;;Half-elf;Female;;;;;;Mercenary;
+218;https://witcher.fandom.com/wiki/Regan_Dahlberg;Regan Dahlberg;Regan;Deceased (killed during the Battle of Mayena);Dwarf;Male;;;;{'https://witcher.fandom.com/wiki/Paulie_Dahlberg': 'Paulie Dahlberg (brother)'};{};"Adventurer
+Dragon slayer
+Mercenary";
+219;https://witcher.fandom.com/wiki/Reginald;Reginald;Reginald;Deceased;Human;Male;;;{'https://witcher.fandom.com/wiki/Villem': 'Villem (son)'};;{'https://witcher.fandom.com/wiki/Meve': 'Meve (wife)'};;
+220;https://witcher.fandom.com/wiki/Rizzi_Michelet;Rizzi Michelet;Rizzi;Deceased (killed by Geralt of Rivia);Human;Male;;;;{'https://witcher.fandom.com/wiki/Flavius_Michelet': 'Flavius Michelet (brother)', 'https://witcher.fandom.com/wiki/Lodovico_Michelet': 'Lodovico Michelet (brother)', 'https://witcher.fandom.com/wiki/Toublanc_Michelet': 'Toublanc Michelet (brother)'};;Professional killer;Swordsmanship
+221;https://witcher.fandom.com/wiki/Sambuk;Sambuk;Sambuk;Deceased;Human;Male;;;;{'https://witcher.fandom.com/wiki/Milan_Raupenneck': 'Milan Raupenneck (cousin)'};;;
+222;https://witcher.fandom.com/wiki/Schrader;Schrader;Schrader;Deceased (infection from a dog bite);Dwarf;Male;;;;;;;
+223;https://witcher.fandom.com/wiki/Shani;Shani;Shani;Deceased[2];Human;Female;[1];;;;{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (fling in books, potential lover in The Witcher and Hearts of Stone expansion)', 'https://witcher.fandom.com/wiki/The_Witcher_(game)': 'The Witcher (game) (games, briefly dated)'};"Medic
+Dean of the Department of Medicine (retired)";
+224;https://witcher.fandom.com/wiki/Sheldon_Skaggs;Sheldon Skaggs;Sheldon;;Dwarf;Male;;;;;;Warrior;
+225;https://witcher.fandom.com/wiki/Stran;Stran;Stran;Deceased (killed by arrow-fire or an aeschna);Human;Male;;;;;;Spy;
+226;https://witcher.fandom.com/wiki/Toublanc_Michelet;Toublanc Michelet;Toublanc;Deceased (gravely wounded by Geralt, finished off by Philippa Eilhart);Human;Male;;;;{'https://witcher.fandom.com/wiki/Flavius_Michelet': 'Flavius Michelet (brother)', 'https://witcher.fandom.com/wiki/Lodovico_Michelet': 'Lodovico Michelet (brother)', 'https://witcher.fandom.com/wiki/Rizzi_Michelet': 'Rizzi Michelet (brother)'};;Professional killer;Swordsmanship
+227;https://witcher.fandom.com/wiki/Unist;Unist;Unist;;Human;Male;;;;;;;
+228;https://witcher.fandom.com/wiki/Vanielle;Vanielle;Vanielle;Deceased (killed during the Battle of Sodden Hill);Human;Female;;;;;;Mage;Magic
+229;https://witcher.fandom.com/wiki/Venzlav;Venzlav;Venzlav;;Human;Male;;;;;;;
+230;https://witcher.fandom.com/wiki/Vesemir;Vesemir;Vesemir;;Witcher Human;Male;;;;;{'https://witcher.fandom.com/wiki/Mignole': 'Mignole (one time lover)'};Witcher;"Superhuman abilities
+Swordsmanship
+Alchemy
+Signs"
+231;https://witcher.fandom.com/wiki/Vilfrid_Wenck;Vilfrid Wenck;Vilfrid;Deceased (shot by Scoia'tael);Human;Male;;;;;;"""Bailiff"" (cover)
+Soldier
+Agent";
+232;https://witcher.fandom.com/wiki/Villem;Villem;Villem;;Human;Male;;{'https://witcher.fandom.com/wiki/Meve': 'Meve (mother)', 'https://witcher.fandom.com/wiki/Reginald': 'Reginald (father)'};;{'https://witcher.fandom.com/wiki/Ans%C3%A9is': 'Anséis (brother)'};;;
+233;https://witcher.fandom.com/wiki/Virfuril;Virfuril;Virfuril;Deceased;Human;Male;;;{'https://witcher.fandom.com/wiki/Demavend_III': 'Demavend III (son)'};{'https://witcher.fandom.com/wiki/Stennis': 'Stennis (grandson)'};;;
+234;https://witcher.fandom.com/wiki/Vitek;Vitek;Vitek;Deceased (killed by arrow-fire or an aeschna);Human;Male;;;;;;Guard;
+235;https://witcher.fandom.com/wiki/Windhalm_of_Attre;Windhalm of Attre;Windhalm;Deceased (executed);Human;Male;;;;;;;
+236;https://witcher.fandom.com/wiki/Wolfgang_Amadeus_Goatbeard;Wolfgang Amadeus Goatbeard;Wolfgang;;Unknown;;;;;;;;
+237;https://witcher.fandom.com/wiki/Xavier_Moran;Xavier Moran;Xavier;;Dwarf;Male;;;;;;"Adventurer
+Dragon slayer
+Mercenary";
+238;https://witcher.fandom.com/wiki/Yannick_Brass;Yannick Brass;Yannick;Deceased (killed by Scoia'tael);Dwarf;Male;;;;;;"Adventurer
+Dragon slayer
+Mercenary";
+239;https://witcher.fandom.com/wiki/Yarpen_Zigrin;Yarpen Zigrin;Yarpen;;Dwarf;Male;;;;{};;"Adventurer
+Dragon slayer
+Soldier";
+240;https://witcher.fandom.com/wiki/Yo%C3%ABl_Grethen;Yoël Grethen;Yoël;Deceased (killed during the Battle of Sodden Hill);Human;Male;;;;;;Mage;Magic
+241;https://witcher.fandom.com/wiki/Zyvik;Zyvik;Zyvik;;Human;Male;;;;;;Soldier;
+242;https://witcher.fandom.com/wiki/Adda_the_White;Adda the White;Adda;;Human;Female;;{'https://witcher.fandom.com/wiki/Adda_of_Temeria': 'Adda of Temeria (mother)', 'https://witcher.fandom.com/wiki/Foltest': 'Foltest (father)'};;{'https://witcher.fandom.com/wiki/Adda_of_Temeria': 'Adda of Temeria (aunt)', 'https://witcher.fandom.com/wiki/Ana%C3%AFs_La_Valette': 'Anaïs La Valette (half-sister)', 'https://witcher.fandom.com/wiki/Boussy_La_Valette': 'Boussy La Valette (half-brother)', 'https://witcher.fandom.com/wiki/Foltest': 'Foltest (uncle)'};{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (lover, optional)', 'https://witcher.fandom.com/wiki/Radovid_V': 'Radovid V (husband, optional)'};;
+243;https://witcher.fandom.com/wiki/Agloval;Agloval;Agloval;;Human;Male;;;;;"{'https://witcher.fandom.com/wiki/Sh%27eenaz': ""Sh'eenaz (wife)""}";;
+244;https://witcher.fandom.com/wiki/Alzur;Alzur;Alzur;Deceased (killed by a viy of his own creation);Human;Male;;;;;{};Mage;Magic
+245;https://witcher.fandom.com/wiki/Annika;Annika;Annika;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+246;https://witcher.fandom.com/wiki/Braenn;Braenn;Braenn;;Dryad;Female;Brokilonian;;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (daughter)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (daughter)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (daughter)'}";;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (husband)'};;Bowmanship
+247;https://witcher.fandom.com/wiki/Brennan;Brennan;Brennan;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Herwig': 'Herwig (uncle)'};;;
+248;https://witcher.fandom.com/wiki/Caldemeyn;Caldemeyn;Caldemeyn;;Human;Male;Arcsea;;{'https://witcher.fandom.com/wiki/Annika': 'Annika (daughter)'};;{'https://witcher.fandom.com/wiki/Libushe': 'Libushe (wife)'};Alderman;
+249;https://witcher.fandom.com/wiki/Chireadan;Chireadan;Chireadan;;Aen Seidhe Elf;Male;;;;{'https://witcher.fandom.com/wiki/Errdil': 'Errdil (cousin)'};;"Tavern owner (canon)
+Guerrilla fighter (games)";
+250;https://witcher.fandom.com/wiki/Cirilla_(dryad);Cirilla;Cirilla;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+251;https://witcher.fandom.com/wiki/Czop;Czop;Czop;Deceased (killed by Koshchey's Men);Human;Male;;;;;;Journeyman blacksmith;
+252;https://witcher.fandom.com/wiki/Dainty_Biberveldt;Dainty Biberveldt;Dainty;;Halfling;Male;;;{'https://witcher.fandom.com/wiki/Lily_Biberveldt': 'Lily Biberveldt (daughter)'};{'https://witcher.fandom.com/wiki/Arno_Hardbottom': 'Arno Hardbottom (father-in-law)', 'https://witcher.fandom.com/wiki/Begonia_Biberveldt': 'Begonia Biberveldt (aunt)', 'https://witcher.fandom.com/wiki/Dudu': 'Dudu (fake cousin)', 'https://witcher.fandom.com/wiki/Andy_Biberveldt': 'Andy Biberveldt (unknown relation)'};{'https://witcher.fandom.com/wiki/Gardenia_Biberveldt': 'Gardenia Biberveldt (wife)'};"Businessman
+Horse breeder";
+253;https://witcher.fandom.com/wiki/Devereux;Devereux;Devereux;;Human;Male;;;;;;Knight;
+254;https://witcher.fandom.com/wiki/Dorregaray;Dorregaray;Dorregaray;;Human;Male;;;;;;"Mage
+Spy";Magic
+255;https://witcher.fandom.com/wiki/Dudu;Dudu;Dudu;;Doppler;Male;;{'https://witcher.fandom.com/wiki/Begonia_Biberveldt': 'Begonia Biberveldt (fake mother)'};;{'https://witcher.fandom.com/wiki/Dainty_Biberveldt': 'Dainty Biberveldt (fake cousin)'};;Businessman;Shape-shifting
+256;https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter);Eithné;Eithné;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+257;https://witcher.fandom.com/wiki/Fregenal;Fregenal;Fregenal;;Human;Male;;;;;;Druid (expelled);
+258;https://witcher.fandom.com/wiki/Freixenet;Freixenet;Freixenet;;Human;Male;;;"{'https://witcher.fandom.com/wiki/Morenn_(Braenn%27s_daughter)': ""Morenn (Braenn's daughter) (daughter)"", 'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (daughter)'}";{'https://witcher.fandom.com/wiki/Eliza': 'Eliza (sister)', 'https://witcher.fandom.com/wiki/Ervyll': 'Ervyll (brother-in-law)', 'https://witcher.fandom.com/wiki/Kistrin': 'Kistrin (nephew)'};{'https://witcher.fandom.com/wiki/Braenn': 'Braenn (wife)'};Governor[2] (formerly)[1];
+259;https://witcher.fandom.com/wiki/Freya_(Skelliger);Freya;Freya;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Mousesack': 'Mousesack (partner)'};;
+260;https://witcher.fandom.com/wiki/Galahad;Galahad;Galahad;;Human;Male;;{'http://en.wikipedia.org/wiki/Elaine_of_Corbenic': 'wikipedia:Elaine of Corbenic (mother)', 'http://en.wikipedia.org/wiki/Lancelot': 'wikipedia:Lancelot (father)'};;;;Knight;
+261;https://witcher.fandom.com/wiki/Gardenia_Biberveldt;Gardenia Biberveldt;Gardenia;;Halfling;Female;;{'https://witcher.fandom.com/wiki/Arno_Hardbottom': 'Arno Hardbottom (father)'};{'https://witcher.fandom.com/wiki/Lily_Biberveldt': 'Lily Biberveldt (daughter)'};{'https://witcher.fandom.com/wiki/William_Hardbottom': 'William Hardbottom (unknown relation)'};{'https://witcher.fandom.com/wiki/Dainty_Biberveldt': 'Dainty Biberveldt (husband)'};;
+262;https://witcher.fandom.com/wiki/Grozim;Grozim;Grozim;;Human;Male;;;;;;Soldier;
+263;https://witcher.fandom.com/wiki/Herwig;Herwig;Herwig;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Brennan': 'Brennan (nephew)'};;;
+264;https://witcher.fandom.com/wiki/Hotspurn;Hotspurn;Hotspurn;Deceased (shot with an arbalest by Windsor Imbra's men);Half-elf;Male;;;;;;Merchant;
+265;https://witcher.fandom.com/wiki/Kashka;Kashka;Kashka;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+266;https://witcher.fandom.com/wiki/Kehl;Kehl;Kehl;Deceased (killed by koshchey);Werebbubb;Male;;;;;;Mercenary;
+267;https://witcher.fandom.com/wiki/Kelpie_(horse);Kelpie;Kelpie;;Unknown;Female;;;;;;;Can be summoned by a magic bracelet
+268;https://witcher.fandom.com/wiki/Korin;Korin;Korin;Deceased (shot and poisoned by the remaining Koshchey's Men);Human;Male;;;{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (son)'};;{'https://witcher.fandom.com/wiki/Visenna': 'Visenna (partner)'};;
+269;https://witcher.fandom.com/wiki/Koshchey%27s_Men;Koshchey's Men;Koshchey's;;Unknown;;;;;;;;
+270;https://witcher.fandom.com/wiki/Lily_Biberveldt;Lily Biberveldt;Lily;;Halfling;Female;;{'https://witcher.fandom.com/wiki/Dainty_Biberveldt': 'Dainty Biberveldt (father)', 'https://witcher.fandom.com/wiki/Gardenia_Biberveldt': 'Gardenia Biberveldt (mother)'};;{'https://witcher.fandom.com/wiki/Arno_Hardbottom': 'Arno Hardbottom (grandfather)', 'https://witcher.fandom.com/wiki/Andy_Biberveldt': 'Andy Biberveldt (unknown relation)'};;;
+271;https://witcher.fandom.com/wiki/Loki_an_Craite;Loki an Craite;Loki;;Human;Male;;{'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (father)'};;{'https://witcher.fandom.com/wiki/Cerys_an_Craite': 'Cerys an Craite (sister)', 'https://witcher.fandom.com/wiki/Hjalmar_an_Craite': 'Hjalmar an Craite (brother)', 'https://witcher.fandom.com/wiki/Ragnar_an_Craite': 'Ragnar an Craite (brother)'};;;
+272;https://witcher.fandom.com/wiki/Manissa;Manissa;Manissa;Deceased (killed by Korin);Human;Female;;;{'https://witcher.fandom.com/wiki/Mousesack': 'Mousesack (son)'};;;;
+273;https://witcher.fandom.com/wiki/Matholm;Matholm;Matholm;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+274;https://witcher.fandom.com/wiki/Merle;Merle;Merle;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+275;https://witcher.fandom.com/wiki/Mikula_(blacksmith);Mikula;Mikula;;Human;Male;(most likely);;;;;Master Blacksmith;
+276;https://witcher.fandom.com/wiki/Mona_(dryad);Mona;Mona;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+277;https://witcher.fandom.com/wiki/Morenn_(Braenn%27s_daughter);Morenn;Morenn;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+278;https://witcher.fandom.com/wiki/Mousesack;Mousesack;Mousesack;;Human;Male;;{'https://witcher.fandom.com/wiki/Manissa': 'Manissa (mother)'};;;;"Druid
+Advisor to Bran, Calanthe and Crach";
+279;https://witcher.fandom.com/wiki/Radim;Radim;Radim;Deceased;Human;Male;;;;;;Wheelwright;
+280;https://witcher.fandom.com/wiki/Ragnar_an_Craite;Ragnar an Craite;Ragnar;;Human;Male;;{'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (father)'};;{'https://witcher.fandom.com/wiki/Cerys_an_Craite': 'Cerys an Craite (sister)', 'https://witcher.fandom.com/wiki/Hjalmar_an_Craite': 'Hjalmar an Craite (brother)', 'https://witcher.fandom.com/wiki/Loki_an_Craite': 'Loki an Craite (brother)'};;;
+281;https://witcher.fandom.com/wiki/Sandy_Frogmorton;Sandy Frogmorton;Sandy;;Halfling;Male;;;;;;;
+282;https://witcher.fandom.com/wiki/Sh%27eenaz;Sh'eenaz;Sh'eenaz;;Mermaid;Female;;;;;{'https://witcher.fandom.com/wiki/Agloval': 'Agloval (husband)'};;
+283;https://witcher.fandom.com/wiki/Something_Ends,_Something_Begins_minor_characters;Something Ends, Something Begins minor characters;Something;;Dryad;Female;Brokilonian;{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (father)', 'https://witcher.fandom.com/wiki/Braenn': 'Braenn (mother)'};;"{'https://witcher.fandom.com/wiki/Cirilla_(dryad)': 'Cirilla (dryad) (sister)', 'https://witcher.fandom.com/wiki/Eithn%C3%A9_(Braenn%27s_daughter)': ""Eithné (Braenn's daughter) (sister)"", 'https://witcher.fandom.com/wiki/Kashka': 'Kashka (sister)', 'https://witcher.fandom.com/wiki/Mona_(dryad)': 'Mona (dryad) (sister)'}";{'https://witcher.fandom.com/wiki/Borch': 'Borch (lover)'};Prostitute;
+284;https://witcher.fandom.com/wiki/Sulivoy;Sulivoy;Sulivoy;;Human;Male;;;;;;"Castellan
+Knight";
+285;https://witcher.fandom.com/wiki/Topin;Topin;Topin;;Human;Male;;;;;;Alderman;
+286;https://witcher.fandom.com/wiki/Villentretenmerth;Villentretenmerth;Villentretenmerth;;Golden dragon;Male;;;{'https://witcher.fandom.com/wiki/Saesenthessis': 'Saesenthessis (daughter)'};;{'https://witcher.fandom.com/wiki/Myrgtabrakke': 'Myrgtabrakke (mate)', 'https://witcher.fandom.com/wiki/T%C3%A9a': 'Téa (lover)', 'https://witcher.fandom.com/wiki/V%C3%A9a': 'Véa (lover)'};Knight;
+287;https://witcher.fandom.com/wiki/Visenna;Visenna;Visenna;;Human;Female;;;{'https://witcher.fandom.com/wiki/Geralt_of_Rivia': 'Geralt of Rivia (son)'};;{'https://witcher.fandom.com/wiki/Korin': 'Korin (partner)'};"Druid
+Healer
+Mage";Magic
+288;https://witcher.fandom.com/wiki/Vissing;Vissing;Vissing;;Human;Male;;;;;;Bandit;
+289;https://witcher.fandom.com/wiki/White_Lady;White Lady;White;Deceased (buried alive in Rozrog's catacombs);Human;Female;;;;;;;
+290;https://witcher.fandom.com/wiki/Willem;Willem;Willem;Deceased (murdered);Human;Male;;;;;;;
+291;https://witcher.fandom.com/wiki/Yves;Yves;Yves;;Human;Male;;;;;;Knight;
+292;https://witcher.fandom.com/wiki/Akeretta;Akeretta;Akeretta;;Human;Female;;;;;;;
+293;https://witcher.fandom.com/wiki/Alvina;Alvina;Alvina;;Human;Female;;;;;;;
+294;https://witcher.fandom.com/wiki/Arno_Hardbottom;Arno Hardbottom;Arno;;Halfling;Male;;;{'https://witcher.fandom.com/wiki/Gardenia_Biberveldt': 'Gardenia Biberveldt (daughter)'};{'https://witcher.fandom.com/wiki/Dainty_Biberveldt': 'Dainty Biberveldt (son-in-law)', 'https://witcher.fandom.com/wiki/Lily_Biberveldt': 'Lily Biberveldt (granddaughter)'};;Miller;
+295;https://witcher.fandom.com/wiki/Atlan_Kerk;Atlan Kerk;Atlan;Deceased (killed during the Battle of Sodden Hill);Human;Male;;;;;;Mage;Magic
+296;https://witcher.fandom.com/wiki/Beady-eyes;Beady-eyes;Beady-eyes;Deceased (killed by Geralt of Rivia);Human;Male;;;;;;Brigand;
+297;https://witcher.fandom.com/wiki/Begonia_Biberveldt;Begonia Biberveldt;Begonia;;Halfling;Female;;;{'https://witcher.fandom.com/wiki/Dudu': 'Dudu (fake son)'};{'https://witcher.fandom.com/wiki/Dainty_Biberveldt': 'Dainty Biberveldt (nephew)'};;;
+298;https://witcher.fandom.com/wiki/Boholt;Boholt;Boholt;;Human;Male;Crinfrider;;;;;Mercenary;
+299;https://witcher.fandom.com/wiki/Brick;Brick;Brick;Deceased (killed by Geralt of Rivia);Human;Male;;;;;;Brigand;
+300;https://witcher.fandom.com/wiki/Budibog;Budibog;Budibog;;Human;Male;;;;;;;
+301;https://witcher.fandom.com/wiki/Chappelle;Chappelle;Chappelle;Deceased (died of heart attack);Doppler;Male;;;;;;;
+302;https://witcher.fandom.com/wiki/Crinfrid_Reavers;Crinfrid Reavers;Crinfrid;Extant;Unknown;;;;;;;;
+303;https://witcher.fandom.com/wiki/Cynthia_(ballad_subject);Cynthia;Cynthia;;Unknown;Female;;;;;{'https://witcher.fandom.com/wiki/Vertvern': 'Vertvern (partner)'};;
+304;https://witcher.fandom.com/wiki/Dagobert;Dagobert;Dagobert;Deceased (killed during Battle of Sodden Hill);Human;Male;;;;;;Mage;Magic
+305;https://witcher.fandom.com/wiki/Dalia;Dalia;Dalia;;Human;Female;;{'https://witcher.fandom.com/wiki/Mestvin': 'Mestvin (father)'};;;{'https://witcher.fandom.com/wiki/Gaspard': 'Gaspard (husband)'};;
+306;https://witcher.fandom.com/wiki/Detchka;Detchka;Detchka;;Human;Female;;;;;;;
+307;https://witcher.fandom.com/wiki/Drunken_ferryman;Drunken ferryman;Drunken;;Human;Male;;;;;;Ferryman;
+308;https://witcher.fandom.com/wiki/Dunca;Dunca;Dunca;;Dryad;Female;Brokilonian;;;;;Guard of Brokilon;
+309;https://witcher.fandom.com/wiki/Ebbing_quadruplets;Ebbing quadruplets;Ebbing;;Human;;;;;;;;
+310;https://witcher.fandom.com/wiki/Eliza;Eliza;Eliza;;Human;Female;;;{'https://witcher.fandom.com/wiki/Kistrin': 'Kistrin (son, possibly)'};{'https://witcher.fandom.com/wiki/Freixenet': 'Freixenet (brother)'};{'https://witcher.fandom.com/wiki/Ervyll': 'Ervyll (husband)'};;
+311;https://witcher.fandom.com/wiki/Eyck_of_Denesle;Eyck of Denesle;Eyck;;Human;Male;;;{'https://witcher.fandom.com/wiki/Siegfried_of_Denesle': 'Siegfried of Denesle (son)'};;{'https://witcher.fandom.com/wiki/Sophia_of_Denesle': 'Sophia of Denesle (wife)'};Knight errant;
+312;https://witcher.fandom.com/wiki/Gar;Gar;Gar;;Human;Male;Crinfrider;;;;;Mercenary;
+313;https://witcher.fandom.com/wiki/Gaspard_Drouhard;Gaspard Drouhard;Gaspard;;Human;Male;;{'https://witcher.fandom.com/wiki/Teleri_Drouhard': 'Teleri Drouhard (father)'};;;{'https://witcher.fandom.com/wiki/Dalia': 'Dalia (wife)'};;
+314;https://witcher.fandom.com/wiki/Goldencheeks;Goldencheeks;Goldencheeks;;Human;Female;;;{'https://witcher.fandom.com/wiki/Nadbor': 'Nadbor (son)', 'https://witcher.fandom.com/wiki/Sulik': 'Sulik (son)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (adopted daughter, temporarily)'};;{'https://witcher.fandom.com/wiki/Yurga': 'Yurga (husband)'};;
+315;https://witcher.fandom.com/wiki/Gorazd;Gorazd;Gorazd;Deceased (killed during the Battle of Sodden Hill);Unknown;Male;;;;;;Mage;Magic
+316;https://witcher.fandom.com/wiki/Gritzi;Gritzi;Gritzi;;Human;;;;;;;;
+317;https://witcher.fandom.com/wiki/Gyllenstiern;Gyllenstiern;Gyllenstiern;;Human;Male;;;;;;Royal chancellor;
+318;https://witcher.fandom.com/wiki/Herbolth;Herbolth;Herbolth;;Human;Male;;;;;;Alderman of Aedd Gynvael;
+319;https://witcher.fandom.com/wiki/Ivo_Mirce;Ivo Mirce;Ivo;;Human;Male;;;;;;"Bodyguard
+Criminal";
+320;https://witcher.fandom.com/wiki/Joachim_Schwann;Joachim Schwann;Joachim;;Human;Male;;;;;;Tax collector;
+321;https://witcher.fandom.com/wiki/Juan_Pablo_Vassermiller;Juan Pablo Vassermiller;Juan;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Putzi': 'Putzi (sibling)', 'https://witcher.fandom.com/wiki/Gritzi': 'Gritzi (sibling)', 'https://witcher.fandom.com/wiki/Mitzi': 'Mitzi (sibling)'};;;
+322;https://witcher.fandom.com/wiki/Junghans;Junghans;Junghans;Deceased (shot with an arrow by Braenn);Human;Male;;;;;;"Brigand
+Ranger";
+323;https://witcher.fandom.com/wiki/Kennet;Kennet;Kennet;;Human;Male;Crinfrider;;;;;Mercenary;
+324;https://witcher.fandom.com/wiki/Kreve;Kreve;Kreve;;Unknown;;;;;;;;
+325;https://witcher.fandom.com/wiki/Lawdbor;Lawdbor;Lawdbor;Deceased (killed during the Battle of Sodden Hill);Human;Male;;;;;;Mage;Magic
+326;https://witcher.fandom.com/wiki/Levecque;Levecque;Levecque;Deceased (killed by Geralt of Rivia);Human;Male;;;;;;Brigand;
+327;https://witcher.fandom.com/wiki/Marck;Marck;Marck;Deceased (killed by dryads);Human;Male;;;;;;Squire;
+328;https://witcher.fandom.com/wiki/Mestvin;Mestvin;Mestvin;;Human;Male;;;{'https://witcher.fandom.com/wiki/Dalia': 'Dalia (daughter)'};;;Boat captain;
+329;https://witcher.fandom.com/wiki/Mitzi;Mitzi;Mitzi;;Human;;;;;;;;
+330;https://witcher.fandom.com/wiki/Mor%C3%A9nn;Morénn;Morénn;Deceased;Dryad;Female;Brokilonian;;;;;Defender of Brokilon;
+331;https://witcher.fandom.com/wiki/Muskrat;Muskrat;Muskrat;;Human;Male;;;;;;Merchant;
+332;https://witcher.fandom.com/wiki/Myrgtabrakke;Myrgtabrakke;Myrgtabrakke;;Green dragon;Female;;;{'https://witcher.fandom.com/wiki/Saesenthessis': 'Saesenthessis (daughter)'};;{'https://witcher.fandom.com/wiki/Villentretenmerth': 'Villentretenmerth (male mate)'};;
+333;https://witcher.fandom.com/wiki/Nadbor;Nadbor;Nadbor;;Human;Male;;{'https://witcher.fandom.com/wiki/Yurga': 'Yurga (father)', 'https://witcher.fandom.com/wiki/Goldencheeks': 'Goldencheeks (mother)'};;{'https://witcher.fandom.com/wiki/Sulik': 'Sulik (brother)'};;;
+334;https://witcher.fandom.com/wiki/Nelumbo;Nelumbo;Nelumbo;;Unknown;;;;;;;;
+335;https://witcher.fandom.com/wiki/Pokvit;Pokvit;Pokvit;;Human;Male;;;{'https://witcher.fandom.com/wiki/Vell': 'Vell (son)'};;;"Carter
+Servant";
+336;https://witcher.fandom.com/wiki/Putzi;Putzi;Putzi;;Human;;;;;;;;
+337;https://witcher.fandom.com/wiki/Rhundurin;Rhundurin;Rhundurin;Deceased;Dwarf;Male;;;;;;;
+338;https://witcher.fandom.com/wiki/Rhyd;Rhyd;Rhyd;Deceased;Human;Male;;;;;;;
+339;https://witcher.fandom.com/wiki/Roedskilde;Roedskilde;Roedskilde;;Unknown;Male;;;;;;Mage;Magic
+340;https://witcher.fandom.com/wiki/Sheepbagger;Sheepbagger;Sheepbagger;Deceased (killed by Villentretenmerth);Human;Male;Barefield;;;;;Cobbler;
+341;https://witcher.fandom.com/wiki/Sorrel;Sorrel;Sorrel;Deceased (killed by Véa);Human;Male;;;;;;Innkeeper;
+342;https://witcher.fandom.com/wiki/Sulik;Sulik;Sulik;;Human;Male;;{'https://witcher.fandom.com/wiki/Yurga': 'Yurga (father)', 'https://witcher.fandom.com/wiki/Goldencheeks': 'Goldencheeks (mother)'};;{'https://witcher.fandom.com/wiki/Nadbor': 'Nadbor (brother)'};;;
+343;https://witcher.fandom.com/wiki/Sulimir;Sulimir;Sulimir;;Unknown;Male;;;;;;Merchant;
+344;https://witcher.fandom.com/wiki/Sword_of_Destiny_minor_characters;Sword of Destiny minor characters;Sword;Deceased (killed by Véa);Human;Male;;;;;;Innkeeper;
+345;https://witcher.fandom.com/wiki/Teleri_Drouhard;Teleri Drouhard;Teleri;;Human;Male;;;{'https://witcher.fandom.com/wiki/Gaspard_Drouhard': 'Gaspard Drouhard (son)'};;;Spice merchant;
+346;https://witcher.fandom.com/wiki/Ther_Lukokian;Ther Lukokian;Ther;;Human;Male;Zangvebarian;;;;;Factor;
+347;https://witcher.fandom.com/wiki/T%C3%A9a;Téa;Téa;;Human;Female;;;;;;Faithel;Swordsmanship
+348;https://witcher.fandom.com/wiki/Vanda;Vanda;Vanda;Deceased (drowned);Human;Female;[1];;;;;;
+349;https://witcher.fandom.com/wiki/Vell;Vell;Vell;;Human;Male;;{'https://witcher.fandom.com/wiki/Pokvit': 'Pokvit (father)'};;;;Servant;
+350;https://witcher.fandom.com/wiki/Vertvern;Vertvern;Vertvern;;Unknown;Male;;;;;{'https://witcher.fandom.com/wiki/Cynthia_(ballad_subject)': 'Cynthia (ballad subject) (partner)'};;
+351;https://witcher.fandom.com/wiki/Vespula;Vespula;Vespula;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Dandelion': 'Dandelion (lover, formerly)'};Laundress;
+352;https://witcher.fandom.com/wiki/Veverka;Veverka;Veverka;;Human;Female;;;;;;;
+353;https://witcher.fandom.com/wiki/Vimme_Vivaldi;Vimme Vivaldi;Vimme;;Dwarf;Male;;;;{'https://witcher.fandom.com/wiki/Golan_Vivaldi': 'Golan Vivaldi (cousin)', 'https://witcher.fandom.com/wiki/Igor_Vivaldi': 'Igor Vivaldi (unknown relation)'};;Banker;
+354;https://witcher.fandom.com/wiki/Viraxas;Viraxas;Viraxas;;Human;Male;;{'https://witcher.fandom.com/wiki/Belohun': 'Belohun (father)'};{'https://witcher.fandom.com/wiki/Tarrand': 'Tarrand (son)'};{'https://witcher.fandom.com/wiki/Egmund': 'Egmund (half-brother)', 'https://witcher.fandom.com/wiki/Elmer': 'Elmer (half-brother)', 'https://witcher.fandom.com/wiki/Xander': 'Xander (half-brother)'};{'https://witcher.fandom.com/wiki/Ildiko_Breckl': 'Ildiko Breckl (wife)'};Mercenary (formerly);
+355;https://witcher.fandom.com/wiki/Voymir_(knight);Voymir;Voymir;;Human;Male;;;;;;Knight;
+356;https://witcher.fandom.com/wiki/V%C3%A9a;Véa;Véa;;Human;Female;;;;;;Faithel;Swordsmanship
+357;https://witcher.fandom.com/wiki/Yurga;Yurga;Yurga;;Human;Male;;;{'https://witcher.fandom.com/wiki/Nadbor': 'Nadbor (son)', 'https://witcher.fandom.com/wiki/Sulik': 'Sulik (son)'};;{'https://witcher.fandom.com/wiki/Goldencheeks': 'Goldencheeks (wife)'};Merchant;
+358;https://witcher.fandom.com/wiki/Zelest;Zelest;Zelest;;Human;Male;;;;;;"Bailiff
+Steward";
+359;https://witcher.fandom.com/wiki/Aarhenius_Krantz;Aarhenius Krantz;Aarhenius;;Human;Male;;;;;;"Alchemist
+Astrologer
+Astronomer
+Sage";
+360;https://witcher.fandom.com/wiki/Abonde;Abonde;Abonde;;Unknown;Female;;;;;;Student;
+361;https://witcher.fandom.com/wiki/Adam_Pangratt;Adam Pangratt;Adam;;Human;Male;;;;;;Mercenary;
+362;https://witcher.fandom.com/wiki/Adela_Marta;Adela Marta;Adela;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Henri_III': 'Henri III (father, apparently)'};{'https://witcher.fandom.com/wiki/Carolina_Roberta': 'Carolina Roberta (daughter)'};{'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (great-granddaughter)'};{'https://witcher.fandom.com/wiki/Torres': 'Torres (husband)'};;
+363;https://witcher.fandom.com/wiki/Aillil_Mawr_Dyffryn_aep_Ceallach;Aillil Mawr Dyffryn aep Ceallach;Aillil;Deceased (killed during the uprising in Nazair);Human;Male;;{'https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd': 'Ceallach aep Gruffyd (father)', 'https://witcher.fandom.com/wiki/Mawr': 'Mawr (mother)'};;{'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (brother)', 'https://witcher.fandom.com/wiki/Cahir_Mawr_Dyffryn_aep_Ceallach': 'Cahir Mawr Dyffryn aep Ceallach (brother)', 'https://witcher.fandom.com/wiki/Gruffyd': 'Gruffyd (grandfather)'};;Soldier;
+364;https://witcher.fandom.com/wiki/Albert_Solpietra;Albert Solpietra;Albert;;Human;Male;;;;;;Physics student;
+365;https://witcher.fandom.com/wiki/Alcides_Fierabras;Alcides Fierabras;Alcides;;Human;Male;;;;;;Steward;
+366;https://witcher.fandom.com/wiki/Alo%C3%AB_Hildebrandt;Aloë Hildebrandt;Aloë;;Halfling;Female;;{'https://witcher.fandom.com/wiki/Rocco_Hildebrandt': 'Rocco Hildebrandt (father)', 'https://witcher.fandom.com/wiki/Incarvilia_Hildebrandt': 'Incarvilia Hildebrandt (mother)'};;{'https://witcher.fandom.com/wiki/Yasmin_Hildebrandt': 'Yasmin Hildebrandt (sister)', 'https://witcher.fandom.com/wiki/Impatientia_Vanderbeck': 'Impatientia Vanderbeck (cousin)', 'https://witcher.fandom.com/wiki/Tara_Hildebrandt': 'Tara Hildebrandt (unknown relation)'};;;
+367;https://witcher.fandom.com/wiki/Amadis_de_Trastamara;Amadis de Trastamara;Amadis;;Human;Male;;;;;;;
+368;https://witcher.fandom.com/wiki/Andy_Biberveldt;Andy Biberveldt;Andy;;Halfling;Male;;;;{'https://witcher.fandom.com/wiki/Begonia_Biberveldt': 'Begonia Biberveldt (unknown relation)', 'https://witcher.fandom.com/wiki/Dainty_Biberveldt': 'Dainty Biberveldt (unknown relation)'};;;
+369;https://witcher.fandom.com/wiki/Angoul%C3%AAme;Angoulême;Angoulême;Deceased (succumbed to a spear wound);Human;Female;;;;;;;Swordsmanship
+370;https://witcher.fandom.com/wiki/Anna_Henrietta;Anna Henrietta;Anna;;Human;Female;;{};;{'https://witcher.fandom.com/wiki/Emhyr_var_Emreis': 'Emhyr var Emreis (cousin, unknown degree)', 'https://witcher.fandom.com/wiki/Fringilla_Vigo': 'Fringilla Vigo (relative)', 'https://witcher.fandom.com/wiki/Sylvia_Anna': 'Sylvia Anna (sister)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (aunt)', 'https://witcher.fandom.com/wiki/Notturna': 'Notturna (great-grandmother)'};{'https://witcher.fandom.com/wiki/Raymund': 'Raymund (husband, deceased)', 'https://witcher.fandom.com/wiki/Dandelion': 'Dandelion (lover, formerly)'};;
+371;https://witcher.fandom.com/wiki/Ardal_aep_Dahy;Ardal aep Dahy;Ardal;Deceased (food poisoning)[2] (or self-poisoning)[3];Human;Male;;;;;;;
+372;https://witcher.fandom.com/wiki/Aristoteles_Bobeck;Aristoteles Bobeck;Aristoteles;;Human;Male;;;;;;;
+373;https://witcher.fandom.com/wiki/Arthur;Arthur;Arthur;;Human;Male;;;;;;;
+374;https://witcher.fandom.com/wiki/Artorius_Vigo;Artorius Vigo;Artorius;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Fringilla_Vigo': 'Fringilla Vigo (niece)'};;Mage;Illusion magic
+375;https://witcher.fandom.com/wiki/Auberon_Muircetach;Auberon Muircetach;Auberon;Deceased (poisoned by Eredin);Aen Elle Elf;Male;Tir ná Lia;;{'https://witcher.fandom.com/wiki/Lara_Dorren': 'Lara Dorren (daughter)'};{'https://witcher.fandom.com/wiki/Riannon': 'Riannon (granddaughter)', 'https://witcher.fandom.com/wiki/Ciri': 'Ciri (descendant)'};{'https://witcher.fandom.com/wiki/Shiadhal': 'Shiadhal (partner)'};;
+376;https://witcher.fandom.com/wiki/Aubry_(second_born);Aubry;Aubry;Deceased (killed during the Battle of Brenna);Human;Male;;{'https://witcher.fandom.com/wiki/Anzelm_Aubry': 'Anzelm Aubry (father)'};;{};;Soldier;
+377;https://witcher.fandom.com/wiki/Avallac%27h;Avallac'h;Avallac'h;;Aen Elle Elf;Male;Tir ná Lia;;{'https://witcher.fandom.com/wiki/Caranthir_Ar-Feiniel': 'Caranthir Ar-Feiniel (foster child)'};;{'https://witcher.fandom.com/wiki/Lara_Dorren': 'Lara Dorren (arranged, broken off)'};;"Magic
+Divination
+Interdimensional travelling between Tir ná Béa Arainne and Tir ná Lia"
+378;https://witcher.fandom.com/wiki/Barclay_Els;Barclay Els;Barclay;Deceased (killed by a chelonodrake);Dwarf;Male;;;;;;;
+379;https://witcher.fandom.com/wiki/Berengar_Leuvaarden;Berengar Leuvaarden;Berengar;;Human;Male;;;;;;;
+380;https://witcher.fandom.com/wiki/Bernie_Hofmeier;Bernie Hofmeier;Bernie;;Halfling;Male;;;{'https://witcher.fandom.com/wiki/Franklin_Hofmeier': 'Franklin Hofmeier (son)', 'https://witcher.fandom.com/wiki/Cinia_Hofmeier': 'Cinia Hofmeier (daughter)', 'https://witcher.fandom.com/wiki/Tangerinka_Hofmeier': 'Tangerinka Hofmeier (daughter)'};{'https://witcher.fandom.com/wiki/Didi_Hofmeier': 'Didi Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Holofernes_Hofmeier': 'Holofernes Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Sam_Hofmeier': 'Sam Hofmeier (unknown relation)'};{'https://witcher.fandom.com/wiki/Petunia_Hofmeier': 'Petunia Hofmeier (wife)'};Farmer;
+381;https://witcher.fandom.com/wiki/Bertram_Skellen;Bertram Skellen;Bertram;;Human;Male;;;{'https://witcher.fandom.com/wiki/Stefan_Skellen': 'Stefan Skellen (son)'};;;;
+382;https://witcher.fandom.com/wiki/Blasco_Grant;Blasco Grant;Blasco;;Dwarf;Male;;;;;;Soldier;
+383;https://witcher.fandom.com/wiki/Blenheim_Blenckert;Blenheim Blenckert;Blenheim;;Human;Male;;;;;;Soldier;
+384;https://witcher.fandom.com/wiki/Boreas_Mun;Boreas Mun;Boreas;;Human;Male;;;;;;Tracker;
+385;https://witcher.fandom.com/wiki/Braathens;Braathens;Braathens;Deceased (burned alive);Human;Male;;;;;;Mage;
+386;https://witcher.fandom.com/wiki/Bucephalus;Bucephalus;Bucephalus;;Unknown;Male;;;;;;;
+387;https://witcher.fandom.com/wiki/Cairbre_aep_Diared;Cairbre aep Diared;Cairbre;Deceased (hanged at Drakenborg);Aen Seidhe Elf;Male;;;;;;Soldier;Swordsmanship
+388;https://witcher.fandom.com/wiki/Carolina_Roberta;Carolina Roberta;Carolina;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Adela_Marta': 'Adela Marta (mother)', 'https://witcher.fandom.com/wiki/Torres': 'Torres (father)'};;{'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (granddaughter)', 'https://witcher.fandom.com/wiki/Sylvia_Anna': 'Sylvia Anna (granddaughter)'};{'https://witcher.fandom.com/wiki/Roger_of_Toussaint': 'Roger of Toussaint (speculative husband)'};;
+389;https://witcher.fandom.com/wiki/Carthia_van_Canten;Carthia van Canten;Carthia;;Human;Female;;;;;;"Informant
+Spy";
+390;https://witcher.fandom.com/wiki/Cedric_(king);Cedric;Cedric;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (father)', 'https://witcher.fandom.com/wiki/Adda_of_Cidaris': 'Adda of Cidaris (mother)'};{'https://witcher.fandom.com/wiki/Griffin_of_Temeria': 'Griffin of Temeria (son)'};{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (half-brother)', 'https://witcher.fandom.com/wiki/Adela': 'Adela (half-sister)', 'https://witcher.fandom.com/wiki/Fiona': 'Fiona (half-sister)'};{'https://witcher.fandom.com/wiki/Berengaria_Thyssen': 'Berengaria Thyssen (wife)'};;
+391;https://witcher.fandom.com/wiki/Chevron_Knight;Chevron Knight;Chevron;Uncertain;Human;Male;;;;;;Knight errant;
+392;https://witcher.fandom.com/wiki/Cinead_var_Anahid;Cinead var Anahid;Cinead;;Human;Female;;{'https://witcher.fandom.com/wiki/Eviva': 'Eviva (mother)'};;{'https://witcher.fandom.com/wiki/Mawr': 'Mawr (sister)', 'https://witcher.fandom.com/wiki/Assire_var_Anahid': 'Assire var Anahid (aunt)', 'https://witcher.fandom.com/wiki/Aillil_aep_Ceallach': 'Aillil aep Ceallach (nephew)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (nephew)', 'https://witcher.fandom.com/wiki/Cahir': 'Cahir (nephew)'};;;
+393;https://witcher.fandom.com/wiki/Ciri_(Jarre%27s_granddaughter);Ciri;Ciri;;Human;Female;;;;{'https://witcher.fandom.com/wiki/Jarre': 'Jarre (grandfather)', 'https://witcher.fandom.com/wiki/Lucienne': 'Lucienne (grandmother)'};;;
+394;https://witcher.fandom.com/wiki/Condwiramurs_Tilly;Condwiramurs Tilly;Condwiramurs;;Unknown;Female;;;;;;Mage (Oneiromancer);
+395;https://witcher.fandom.com/wiki/Count_Broinne;Count Broinne;Count;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Dervla_Tryffin_Broinne': 'Dervla Tryffin Broinne (wife)'};;
+396;https://witcher.fandom.com/wiki/Count_de_Ruyter;Count de Ruyter;Count;Deceased (killed in a battle);Unknown;Male;;;{'https://witcher.fandom.com/wiki/Jolanta_de_Ruyter': 'Jolanta de Ruyter (daughter)', 'https://witcher.fandom.com/wiki/Julia_de_Ruyter': 'Julia de Ruyter (daughter)', 'https://witcher.fandom.com/wiki/Joanna_de_Ruyter': 'Joanna de Ruyter (daughter)'};;{'https://witcher.fandom.com/wiki/Muriel': 'Muriel (wife)'};;
+397;https://witcher.fandom.com/wiki/Cyprian_Fripp_the_younger;Cyprian Fripp the younger;Cyprian;Deceased (killed by Ciri);Human;Male;;;;{'https://witcher.fandom.com/wiki/Cyprian_Fripp_the_elder': 'Cyprian Fripp the elder (brother)'};;Professional killer;Swordsmanship
+398;https://witcher.fandom.com/wiki/Cyrus_Engelkind_Hemmelfart;Cyrus Engelkind Hemmelfart;Cyrus;;Human;Male;;;;;;Priest of the Eternal Fire;
+399;https://witcher.fandom.com/wiki/Dacre_Silifant;Dacre Silifant;Dacre;;Human;Male;;;;;;;
+400;https://witcher.fandom.com/wiki/Debora;Debora;Debora;Deceased (died of typhus);Human;Female;;;;;;Priestess;
+401;https://witcher.fandom.com/wiki/Dede_Vargas;Dede Vargas;Dede;Deceased (killed by Ciri);Human;Male;;;;;;Professional assassin;Swordsmanship
+402;https://witcher.fandom.com/wiki/Dennis_Cranmer;Dennis Cranmer;Dennis;;Dwarf;Male;;;;{};;Guard captain;
+403;https://witcher.fandom.com/wiki/Deuslax;Deuslax;Deuslax;;Human;Male;;;;;;Soldier;
+404;https://witcher.fandom.com/wiki/Devlin_aep_Meara;Devlin aep Meara;Devlin;Unknown;Human;Male;;;;;;Soldier;
+405;https://witcher.fandom.com/wiki/Dheran_Mawr_Dyffryn_aep_Ceallach;Dheran Mawr Dyffryn aep Ceallach;Dheran;;Human;Male;;{'https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd': 'Ceallach aep Gruffyd (father)', 'https://witcher.fandom.com/wiki/Mawr': 'Mawr (mother)'};;{'https://witcher.fandom.com/wiki/Aillil_aep_Ceallach': 'Aillil aep Ceallach (brother)', 'https://witcher.fandom.com/wiki/Cahir_Mawr_Dyffryn_aep_Ceallach': 'Cahir Mawr Dyffryn aep Ceallach (brother)', 'https://witcher.fandom.com/wiki/Gruffyd': 'Gruffyd (grandfather)', 'https://witcher.fandom.com/wiki/Dyffryn': 'Dyffryn (great-grandfather)'};;;
+406;https://witcher.fandom.com/wiki/Didi_Hofmeier;Didi Hofmeier;Didi;;Halfling;Male;;;;;;;
+407;https://witcher.fandom.com/wiki/Digod;Digod;Digod;;Human;Male;;;;;;Soldier;
+408;https://witcher.fandom.com/wiki/Dominik_Bombastus_Houvenaghel;Dominik Bombastus Houvenaghel;Dominik;Deceased;Human;Male;;;;{'https://witcher.fandom.com/wiki/Leo_Bonhart': 'Leo Bonhart (cousin)'};;Merchant;
+409;https://witcher.fandom.com/wiki/Draakul;Draakul;Draakul;;Unknown;Male;;;;;;;
+410;https://witcher.fandom.com/wiki/Dyffryn;Dyffryn;Dyffryn;;Human;Male;;;{'https://witcher.fandom.com/wiki/Gruffyd': 'Gruffyd (son)'};{'https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd': 'Ceallach aep Gruffyd (grandson)', 'https://witcher.fandom.com/wiki/Aillil_Mawr_Dyffryn_aep_Ceallach': 'Aillil Mawr Dyffryn aep Ceallach (great-grandson)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (great-grandson)', 'https://witcher.fandom.com/wiki/Cahir': 'Cahir (great-grandson)'};;;
+411;https://witcher.fandom.com/wiki/Elkana_Foster;Elkana Foster;Elkana;Deceased (killed during the Battle of Mayena);Dwarf;Male;;;;;;Soldier;
+412;https://witcher.fandom.com/wiki/Emmerich_Gottschalk;Emmerich Gottschalk;Emmerich;;Human;Male;;;;;;Professor;
+413;https://witcher.fandom.com/wiki/Eredin_Br%C3%A9acc_Glas;Eredin Bréacc Glas;Eredin;Deceased (games, killed by Geralt);Aen Elle Elf;Male;Tir ná Lia;;;;;;"Swordsmanship
+Horsemanship
+Teleportation
+Magic"
+414;https://witcher.fandom.com/wiki/Eudora_Breckenriggs;Eudora Breckenriggs;Eudora;;Dwarf;Female;;;;;{'https://witcher.fandom.com/wiki/Zoltan_Chivay': 'Zoltan Chivay (fiancé)'};;
+415;https://witcher.fandom.com/wiki/Evangelina_Parr;Evangelina Parr;Evangelina;;Unknown;Female;;;;;;Prostitute;
+416;https://witcher.fandom.com/wiki/Eviva_var_Anahid;Eviva var Anahid;Eviva;;Human;Female;;;{'https://witcher.fandom.com/wiki/Cinead_var_Anahid': 'Cinead var Anahid (daughter)', 'https://witcher.fandom.com/wiki/Mawr': 'Mawr (daughter)'};{'https://witcher.fandom.com/wiki/Assire_var_Anahid': 'Assire var Anahid (sister)', 'https://witcher.fandom.com/wiki/Aillil_aep_Ceallach': 'Aillil aep Ceallach (son-in-law)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (grandson)', 'https://witcher.fandom.com/wiki/Cahir': 'Cahir (grandson)'};;;
+417;https://witcher.fandom.com/wiki/Fabio_Sachs;Fabio Sachs;Fabio;Deceased (disease);Human;Male;;{'https://witcher.fandom.com/wiki/Fabio_Sachs_(senior)': 'Fabio Sachs (senior) (father)'};;;;"Explorer
+Bank clerk (formerly)";
+418;https://witcher.fandom.com/wiki/Fergus_var_Emreis;Fergus var Emreis;Fergus;Deceased (murdered by the Usurper);Human;Male;;{'https://witcher.fandom.com/wiki/Torres_var_Emreis': 'Torres var Emreis (father)'};{'https://witcher.fandom.com/wiki/Emhyr_var_Emreis': 'Emhyr var Emreis (son)'};;;;
+419;https://witcher.fandom.com/wiki/Fisher_King_(lover_of_Nimue);Fisher King;Fisher;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Nimue': 'Nimue (lover)'};;
+420;https://witcher.fandom.com/wiki/Fitz-Oesterlen_(cadet);Fitz-Oesterlen;Fitz-Oesterlen;;Human;Male;(?);;;{'https://witcher.fandom.com/wiki/Shilard_Fitz-Oesterlen': 'Shilard Fitz-Oesterlen (unknown relation)'};;;
+421;https://witcher.fandom.com/wiki/Forest_Gramps;Forest Gramps;Forest;Deceased (killed by Ciri);Human;Male;;;;;;;
+422;https://witcher.fandom.com/wiki/Fulko_Artevelde;Fulko Artevelde;Fulko;;Human;Male;;;;;;Prefect;
+423;https://witcher.fandom.com/wiki/Fuson;Fuson;Fuson;;Human;Male;;;;;;Shoemaker;
+424;https://witcher.fandom.com/wiki/Gardik;Gardik;Gardik;Deceased;Half-elf;Male;;{'https://witcher.fandom.com/wiki/Geddes': 'Geddes (father)', 'https://witcher.fandom.com/wiki/Vinifrida': 'Vinifrida (mother)'};{'https://witcher.fandom.com/wiki/Goidemar': 'Goidemar (son)', 'https://witcher.fandom.com/wiki/Leticia_Charbonneau': 'Leticia Charbonneau (illegitimate daughter)'};{'https://witcher.fandom.com/wiki/Maria_Pulcheria': 'Maria Pulcheria (sister)'};{'https://witcher.fandom.com/wiki/Vulpia': 'Vulpia (wife)', 'https://witcher.fandom.com/wiki/Carezza_Charbonneau': 'Carezza Charbonneau (lover)'};;
+425;https://witcher.fandom.com/wiki/Gefreiter_Corncrake;Gefreiter Corncrake;Gefreiter;;Human;Male;;;;;;Soldier;
+426;https://witcher.fandom.com/wiki/Goulue;Goulue;Goulue;Deceased (pneumonia);Human;Female;;;;;;;
+427;https://witcher.fandom.com/wiki/Gruffyd;Gruffyd;Gruffyd;;Human;Male;;{'https://witcher.fandom.com/wiki/Dyffryn': 'Dyffryn (father)'};{'https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd': 'Ceallach aep Gruffyd (son)'};{'https://witcher.fandom.com/wiki/Aillil_Mawr_Dyffryn_aep_Ceallach': 'Aillil Mawr Dyffryn aep Ceallach (grandson)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (grandson)', 'https://witcher.fandom.com/wiki/Cahir': 'Cahir (grandson)'};;;
+428;https://witcher.fandom.com/wiki/Guy_de_Bois-Fresnes;Guy de Bois-Fresnes;Guy;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Reynart_de_Bois-Fresnes': 'Reynart de Bois-Fresnes (second cousin)'};;Knight;
+429;https://witcher.fandom.com/wiki/Hamilcar_Danza;Hamilcar Danza;Hamilcar;;Human;Male;;;;;;Soldier;
+430;https://witcher.fandom.com/wiki/Holofernes_Hofmeier;Holofernes Hofmeier;Holofernes;;Halfling;Male;;;;{'https://witcher.fandom.com/wiki/Sam_Hofmeier': 'Sam Hofmeier (grandson)'};;;
+431;https://witcher.fandom.com/wiki/Ihuarraquax;Ihuarraquax;Ihuarraquax;;Unicorn;Male;;;;;;;
+432;https://witcher.fandom.com/wiki/Impatientia_Vanderbeck;Impatientia Vanderbeck;Impatientia;;Halfling;Female;;;;{'https://witcher.fandom.com/wiki/Milo_Vanderbeck': 'Milo Vanderbeck (unknown relation)', 'https://witcher.fandom.com/wiki/Rocco_Hildebrandt': 'Rocco Hildebrandt (uncle)', 'https://witcher.fandom.com/wiki/Incarvilia_Hildebrandt': 'Incarvilia Hildebrandt (aunt)', 'https://witcher.fandom.com/wiki/Alo%C3%AB_Hildebrandt': 'Aloë Hildebrandt (cousin)', 'https://witcher.fandom.com/wiki/Yasmin_Hildebrandt': 'Yasmin Hildebrandt (cousin)'};;;
+433;https://witcher.fandom.com/wiki/Incarvilia_Hildebrandt;Incarvilia Hildebrandt;Incarvilia;;Halfling;Female;;;{'https://witcher.fandom.com/wiki/Alo%C3%AB_Hildebrandt': 'Aloë Hildebrandt (daughter)', 'https://witcher.fandom.com/wiki/Yasmin_Hildebrandt': 'Yasmin Hildebrandt (daughter)'};{'https://witcher.fandom.com/wiki/Impatientia_Vanderbeck': 'Impatientia Vanderbeck (niece)'};{'https://witcher.fandom.com/wiki/Rocco_Hildebrandt': 'Rocco Hildebrandt (husband)'};;
+434;https://witcher.fandom.com/wiki/Istvan_Igalffy;Istvan Igalffy;Istvan;Deceased (hanged);Human;Male;;;;;;Drakenborg fort commandant;
+435;https://witcher.fandom.com/wiki/Jacqueline;Jacqueline;Jacqueline;;Human;Female;;;;;;;
+436;https://witcher.fandom.com/wiki/Jan_Natalis;Jan Natalis;Jan;;Human;Male;;;;;;Soldier;
+437;https://witcher.fandom.com/wiki/Jean_Catillon;Jean Catillon;Jean;;Human;;;;;;;Steward;
+438;https://witcher.fandom.com/wiki/Jean_La_Voisier;Jean La Voisier;Jean;;Human;Male;;;;;;Chemistry professor;
+439;https://witcher.fandom.com/wiki/Joachim_de_Wett;Joachim de Wett;Joachim;Deceased (Sentenced to death by Emhyr var Emreis);Human;Male;;;;;;Commander of the Verden Operations Group;
+440;https://witcher.fandom.com/wiki/John_of_Attre;John of Attre;John;;Unknown;;;;;;;Scholar;
+441;https://witcher.fandom.com/wiki/Juan_Gutierrez;Juan Gutierrez;Juan;Deceased (killed during the Battle of Brenna);Human;Male;;;;;;Mercenary;
+442;https://witcher.fandom.com/wiki/Julia_Abatemarco;Julia Abatemarco;Julia;;Human;Female;;;;;;Mercenary;
+443;https://witcher.fandom.com/wiki/Kees_van_Lo;Kees van Lo;Kees;Deceased;Human;Male;;;;;;Soldier;
+444;https://witcher.fandom.com/wiki/King_of_the_Wild_Hunt;King of the Wild Hunt;King;;Ghost;Male;;;;;;;
+445;https://witcher.fandom.com/wiki/Klaproth;Klaproth;Klaproth;Deceased (killed by Impatientia Vanderbeck);Human;Male;;;;;;"Bandit
+Farmhand";
+446;https://witcher.fandom.com/wiki/Kobus_de_Ruyter;Kobus de Ruyter;Kobus;Deceased (shot with a crossbow bolt during the Battle of Brenna);Human;Male;;;;;;Soldier;
+447;https://witcher.fandom.com/wiki/Lamarr_Flaut;Lamarr Flaut;Lamarr;Deceased (trampled to death during the Battle of Brenna);Human;Male;;;;;;Scout;
+448;https://witcher.fandom.com/wiki/Lebioda;Lebioda;Lebioda;Deceased (eaten by a dragon);Human;Male;;;;;;Evangelizer;
+449;https://witcher.fandom.com/wiki/Leon_Oppenhauser;Leon Oppenhauser;Leon;;Human;Male;;;;;;Professor;
+450;https://witcher.fandom.com/wiki/Liam_aep_Muir_Moss;Liam aep Muir Moss;Liam;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Isbel': 'Isbel (sister, likely)'};;Soldier;
+451;https://witcher.fandom.com/wiki/Lorenzo_Molla;Lorenzo Molla;Lorenzo;;Human;Male;;;;;;Mercenary;
+452;https://witcher.fandom.com/wiki/Lucienne;Lucienne;Lucienne;;Human;Female;;;;"{'https://witcher.fandom.com/wiki/Ciri_(Jarre%27s_granddaughter)': ""Ciri (Jarre's granddaughter) (youngest granddaughter)""}";{'https://witcher.fandom.com/wiki/Jarre': 'Jarre (husband)'};Field medic;
+453;https://witcher.fandom.com/wiki/Malatesta;Malatesta;Malatesta;;Human;;;;;;;Steward;
+454;https://witcher.fandom.com/wiki/Markus_Braibant;Markus Braibant;Markus;Deceased (killed in the Battle of Brenna);Human;Male;;;;;;Soldier;
+455;https://witcher.fandom.com/wiki/Marti_S%C3%B6dergren;Marti Södergren;Marti;Deceased (stabbed to death);Human;Female;;;;;;"Healer
+Mage";Magic
+456;https://witcher.fandom.com/wiki/Mawr_var_Anahid;Mawr var Anahid;Mawr;;Human;Female;;{'https://witcher.fandom.com/wiki/Eviva': 'Eviva (mother)'};{'https://witcher.fandom.com/wiki/Cahir_Mawr_Dyffryn_aep_Ceallach': 'Cahir Mawr Dyffryn aep Ceallach (son)', 'https://witcher.fandom.com/wiki/Aillil_aep_Ceallach': 'Aillil aep Ceallach (son)', 'https://witcher.fandom.com/wiki/Dheran_aep_Ceallach': 'Dheran aep Ceallach (son)'};{'https://witcher.fandom.com/wiki/Cinead_var_Anahid': 'Cinead var Anahid (sister)', 'https://witcher.fandom.com/wiki/Assire_var_Anahid': 'Assire var Anahid (aunt)'};{'https://witcher.fandom.com/wiki/Ceallach_aep_Gruffyd': 'Ceallach aep Gruffyd (husband)'};;
+457;https://witcher.fandom.com/wiki/Melfi;Melfi;Melfi;Deceased (killed during the Battle of Brenna);Human;Male;;;;;;"Cooper
+Soldier";
+458;https://witcher.fandom.com/wiki/Milo_Vanderbeck;Milo Vanderbeck;Milo;Deceased (killed by the Catriona plague);Halfling;Male;;;;{'https://witcher.fandom.com/wiki/Impatientia_Vanderbeck': 'Impatientia Vanderbeck (unknown relation)', 'https://witcher.fandom.com/wiki/Rocco_Hildebrandt': 'Rocco Hildebrandt (brother-in-law)'};;Field surgeon;
+459;https://witcher.fandom.com/wiki/Milton;Milton;Milton;Deceased (killed by Incarvilia Hildebrandt);Human;Male;;;;;;"Bandit
+Peasant";
+460;https://witcher.fandom.com/wiki/Milton_de_Peyrac-Peyran;Milton de Peyrac-Peyran;Milton;Deceased (games);Human;Male;;;;;;Knight errant;Swordsmanship
+461;https://witcher.fandom.com/wiki/Morvran_Voorhis;Morvran Voorhis;Morvran;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Prince_Voorhis': 'Prince Voorhis (father)'};;{'https://witcher.fandom.com/wiki/Emhyr_var_Emreis': 'Emhyr var Emreis (unknown relation)'};;;
+462;https://witcher.fandom.com/wiki/Nadia_Esposito;Nadia Esposito;Nadia;;Human;Female;;;;;;;
+463;https://witcher.fandom.com/wiki/Natanis;Natanis;Natanis;;Succubus;Female;;;;;{'https://witcher.fandom.com/wiki/Palmerin_de_Launfal': 'Palmerin de Launfal (lover)', 'https://witcher.fandom.com/wiki/Regis': 'Regis (lover)'};;
+464;https://witcher.fandom.com/wiki/Nitert;Nitert;Nitert;;Human;Male;;;;;;Spy;
+465;https://witcher.fandom.com/wiki/Notturna;Notturna;Notturna;;Human;Female;;;;{'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (niece)', 'https://witcher.fandom.com/wiki/Sylvia_Anna': 'Sylvia Anna (niece)'};;;
+466;https://witcher.fandom.com/wiki/Nycklar;Nycklar;Nycklar;;Human;Male;;;;;;;
+467;https://witcher.fandom.com/wiki/Ograbek;Ograbek;Ograbek;Deceased (killed by Holofernes Hofmeier);Human;Male;;;;;;"Bandit
+Peasant";
+468;https://witcher.fandom.com/wiki/Okultich;Okultich;Okultich;Deceased (killed by halflings);Human;Male;;;;;;Bandit;
+469;https://witcher.fandom.com/wiki/Ola_Harsheim;Ola Harsheim;Ola;Deceased (accidentally killed by Stefan Skellen);Human;Male;(?);;;;;Soldier;
+470;https://witcher.fandom.com/wiki/Orestes_Kopps;Orestes Kopps;Orestes;Deceased (hanged);Human;Male;;;;;;"Marauder
+Robber";
+471;https://witcher.fandom.com/wiki/Otto_de_Congreve;Otto de Congreve;Otto;;Human;Male;;;{'https://witcher.fandom.com/wiki/Stella_Congreve': 'Stella Congreve (daughter)'};;;;
+472;https://witcher.fandom.com/wiki/Ouder_de_Wyngalt;Ouder de Wyngalt;Ouder;Deceased (killed by Zoltan Chivay's company during the Battle of Brenna);Human;Male;;;;;;Soldier;
+473;https://witcher.fandom.com/wiki/Palmerin_de_Launfal;Palmerin de Launfal;Palmerin;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Guillaume_de_Launfal': 'Guillaume de Launfal (nephew)'};{'https://witcher.fandom.com/wiki/Natanis': 'Natanis (lover)'};Knight errant;
+474;https://witcher.fandom.com/wiki/Peter_Faramond;Peter Faramond;Peter;;Unknown;Male;(?);;;;;Architect;
+475;https://witcher.fandom.com/wiki/Petunia_Hildebrandt;Petunia Hildebrandt;Petunia;;Halfling;Female;;;;{'https://witcher.fandom.com/wiki/Rocco_Hildebrandt': 'Rocco Hildebrandt (grandson)'};;;
+476;https://witcher.fandom.com/wiki/Pike_(person);Pike;Pike;Deceased (killed by Rocco Hildebrandt);Human;Male;;;;;;Bandit;
+477;https://witcher.fandom.com/wiki/Prince_Voorhis;Prince Voorhis;Prince;;Human;Male;;;{'https://witcher.fandom.com/wiki/Morvran_Voorhis': 'Morvran Voorhis (son)'};{'https://witcher.fandom.com/wiki/Emhyr_var_Emreis': 'Emhyr var Emreis (unknown relation)'};;;
+478;https://witcher.fandom.com/wiki/Prine;Prine;Prine;Deceased (drowned in the Yaruga);Human;Female;;;;;;Priestess;
+479;https://witcher.fandom.com/wiki/Puttkammer;Puttkammer;Puttkammer;;Human;Male;;;;;;;
+480;https://witcher.fandom.com/wiki/Ramon_Tyrconnel;Ramon Tyrconnel;Ramon;Deceased;Human;Male;;;;;;Soldier;
+481;https://witcher.fandom.com/wiki/Abergard;Abergard;Abergard;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+482;https://witcher.fandom.com/wiki/Abrad_%22Jack-up-the-Skirt%22;"Abrad ""Jack-up-the-Skirt""";Abrad;;Human;Male;;;;;;;
+483;https://witcher.fandom.com/wiki/Adda_of_Temeria;Adda of Temeria;Adda;Deceased (died during childbirth);Human;Female;;{'https://witcher.fandom.com/wiki/Medell': 'Medell (father)', 'https://witcher.fandom.com/wiki/Sancia_of_Sodden': 'Sancia of Sodden (mother)'};{'https://witcher.fandom.com/wiki/Adda_the_White': 'Adda the White (daughter)'};{'https://witcher.fandom.com/wiki/Foltest': 'Foltest (brother)'};{'https://witcher.fandom.com/wiki/Foltest': 'Foltest (brother/lover)'};;
+484;https://witcher.fandom.com/wiki/Akerspaark;Akerspaark;Akerspaark;Deceased (acute pneumonia caused by stabbing);Human;Male;;;{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (son)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (son)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (son)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (son)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (son)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (daughter)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (daughter)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (daughter)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (daughter)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (daughter)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (daughter)'};;;;
+485;https://witcher.fandom.com/wiki/Aridea;Aridea;Aridea;Deceased (poisoned);Human;Female;;;{'https://witcher.fandom.com/wiki/Renfri_Vellga': 'Renfri Vellga (stepdaughter)', 'https://witcher.fandom.com/wiki/Jarmagdo_Vellga': 'Jarmagdo Vellga (son)'};;{'https://witcher.fandom.com/wiki/Fredefalk_Vellga': 'Fredefalk Vellga (husband)'};;
+486;https://witcher.fandom.com/wiki/Arthur_Tailles;Arthur Tailles;Arthur;;Human;Male;;;;;;Knight;"Swordsmanship
+Horsemanship"
+487;https://witcher.fandom.com/wiki/Audoen;Audoen;Audoen;Deceased (battered);Unknown;Male;;{};{'https://witcher.fandom.com/wiki/Niedamir': 'Niedamir (son)'};;;;
+488;https://witcher.fandom.com/wiki/Beau_Berrant;Beau Berrant;Beau;;Human;Male;;;;;;"Rinde honorary ambassador
+Trade broker";
+489;https://witcher.fandom.com/wiki/Bernika;Bernika;Bernika;;Human;Female;;;;;;;
+490;https://witcher.fandom.com/wiki/Borg;Borg;Borg;;Human;Male;Arcsea;;;;;Guard;
+491;https://witcher.fandom.com/wiki/Bran_Tuirseach;Bran Tuirseach;Bran;Deceased (killed by a bear);Human;Male;;;{'https://witcher.fandom.com/wiki/Svanrige_Tuirseach': 'Svanrige Tuirseach (son)'};"{'https://witcher.fandom.com/wiki/Eist_Tuirseach': 'Eist Tuirseach (brother)', 'https://witcher.fandom.com/wiki/Crach%27s_mother': ""Crach's mother (sister)"", 'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (nephew)'}";"{'https://witcher.fandom.com/wiki/Bran%27s_unidentified_concubine': ""Bran's unidentified concubine (mistress)"", 'https://witcher.fandom.com/wiki/Birna': 'Birna (wife)'}";;
+492;https://witcher.fandom.com/wiki/Butcher_of_Blaviken;Butcher of Blaviken;Butcher;;Unknown;;;;;;;;
+493;https://witcher.fandom.com/wiki/Carrypebble;Carrypebble;Carrypebble;;Human;Male;Arcsea;;;;;Guard;
+494;https://witcher.fandom.com/wiki/Centurion_(innkeeper);Centurion;Centurion;;Human;Male;;;;;;Innkeeper;
+495;https://witcher.fandom.com/wiki/Cerberus;Cerberus;Cerberus;;Human;Male;;;;;;Doorman;
+496;https://witcher.fandom.com/wiki/Civril;Civril;Civril;Deceased (killed by Geralt of Rivia);Half-elf;Male;;;;;;Bandit;Crossbowman
+497;https://witcher.fandom.com/wiki/Crach%27s_mother;Crach's mother;Crach's;;Human;Female;;;{'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (son)'};{'https://witcher.fandom.com/wiki/Bran_Tuirseach': 'Bran Tuirseach (brother)', 'https://witcher.fandom.com/wiki/Eist_Tuirseach': 'Eist Tuirseach (brother)', 'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (sister-in-law)'};;;
+498;https://witcher.fandom.com/wiki/Dalimira;Dalimira;Dalimira;;Human;Female;;{'https://witcher.fandom.com/wiki/Vizimir_II': 'Vizimir II (father)', 'https://witcher.fandom.com/wiki/Hedwig_of_Malleore': 'Hedwig of Malleore (mother)'};;{'https://witcher.fandom.com/wiki/Radovid_V': 'Radovid V (brother)', 'https://witcher.fandom.com/wiki/Milena': 'Milena (sister)'};;Priestess;
+499;https://witcher.fandom.com/wiki/Dhun;Dhun;Dhun;;Human;Male;;;;;;Village Elder;
+500;https://witcher.fandom.com/wiki/Dragomir;Dragomir;Dragomir;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+501;https://witcher.fandom.com/wiki/Draig_Bon-Dhu;Draig Bon-Dhu;Draig;;Human;Male;;;;;;Skald;
+502;https://witcher.fandom.com/wiki/Drogodar;Drogodar;Drogodar;;Human;Male;;;;;;Bard;
+503;https://witcher.fandom.com/wiki/Eltibald;Eltibald;Eltibald;;Human;Male;;;;;;Mage;Magic
+504;https://witcher.fandom.com/wiki/Ermellia;Ermellia;Ermellia;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+505;https://witcher.fandom.com/wiki/Errdil;Errdil;Errdil;;Aen Seidhe Elf;Male;;;;{'https://witcher.fandom.com/wiki/Chireadan': 'Chireadan (cousin)'};;;
+506;https://witcher.fandom.com/wiki/Evermir;Evermir;Evermir;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+507;https://witcher.fandom.com/wiki/Eylembert_of_Tigg;Eylembert of Tigg;Eylembert;;Human;Male;;;;;;;
+508;https://witcher.fandom.com/wiki/Falwick;Falwick;Falwick;;Human;Male;;;;;;Knight;"Swordsmanship
+Horsemanship"
+509;https://witcher.fandom.com/wiki/Fenne;Fenne;Fenne;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Nivellen': 'Nivellen (one night stand)'};;
+510;https://witcher.fandom.com/wiki/Fialka;Fialka;Fialka;;Human;Female;;{'https://witcher.fandom.com/wiki/Evermir': 'Evermir (father)'};;;;;
+511;https://witcher.fandom.com/wiki/Fifteen;Fifteen;Fifteen;Deceased (killed by Geralt);Human;Male;;;;;;Bandit;Swordsmanship
+512;https://witcher.fandom.com/wiki/Filavandrel_a%C3%A9n_Fidh%C3%A1il;Filavandrel aén Fidháil;Filavandrel;;Aen Seidhe Elf;Male;;;;;;;
+513;https://witcher.fandom.com/wiki/Fodcat;Fodcat;Fodcat;;Human;Male;;{'https://witcher.fandom.com/wiki/Lord_Strept': 'Lord Strept (father)'};;{'https://witcher.fandom.com/wiki/Tinglant': 'Tinglant (brother)', 'https://witcher.fandom.com/wiki/Wieldhill': 'Wieldhill (brother)'};;;
+514;https://witcher.fandom.com/wiki/Fredefalk_Vellga;Fredefalk Vellga;Fredefalk;Deceased (hunting accident);Human;Male;;;{'https://witcher.fandom.com/wiki/Renfri_Vellga': 'Renfri Vellga (eldest daughter)', 'https://witcher.fandom.com/wiki/Jarmagdo_Vellga': 'Jarmagdo Vellga (son)'};;"{'https://witcher.fandom.com/wiki/Silvena_(Fredefalk%27s_wife)': ""Silvena (Fredefalk's wife) (deceased)""}";;
+515;https://witcher.fandom.com/wiki/Galarr;Galarr;Galarr;;Aen Seidhe Elf;Male;;;;;;;
+516;https://witcher.fandom.com/wiki/Glutton;Glutton;Glutton;;Unknown;Female;;;;;;;
+517;https://witcher.fandom.com/wiki/Haxo;Haxo;Haxo;;Human;Male;;;;;;Castellan;
+518;https://witcher.fandom.com/wiki/Heribert;Heribert;Heribert;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Radovid_IV': 'Radovid IV (father)', 'https://witcher.fandom.com/wiki/Fiametta': 'Fiametta (mother)'};{'https://witcher.fandom.com/wiki/Vizimir_II': 'Vizimir II (son)'};{'https://witcher.fandom.com/wiki/Radovid_V': 'Radovid V (grandson)', 'https://witcher.fandom.com/wiki/Dalimira': 'Dalimira (granddaughter)', 'https://witcher.fandom.com/wiki/Milena': 'Milena (granddaughter)'};{'https://witcher.fandom.com/wiki/Diana_de_Saint-Villiers': 'Diana de Saint-Villiers (wife)'};;
+519;https://witcher.fandom.com/wiki/Idi;Idi;Idi;Deceased;Human;Male;;;;;;;
+520;https://witcher.fandom.com/wiki/Ilka;Ilka;Ilka;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Nivellen': 'Nivellen (lover, formerly)'};;
+521;https://witcher.fandom.com/wiki/Irion;Irion;Irion;Deceased;Human;Male;;;;;;Mage;Magic
+522;https://witcher.fandom.com/wiki/Karelka;Karelka;Karelka;;Human;Male;Arcsea;;;;;Guard;
+523;https://witcher.fandom.com/wiki/Krepp;Krepp;Krepp;;Human;Male;;;;;;Priest;
+524;https://witcher.fandom.com/wiki/Laurelnose;Laurelnose;Laurelnose;;Human;Male;;;;;;Apothecary;
+525;https://witcher.fandom.com/wiki/Lenka;Lenka;Lenka;;Human;Female;;;;;;Nanny;
+526;https://witcher.fandom.com/wiki/Libushe;Libushe;Libushe;;Human;Female;Arcsea;;{'https://witcher.fandom.com/wiki/Annika': 'Annika (daughter)'};;{'https://witcher.fandom.com/wiki/Caldemeyn': 'Caldemeyn (husband)'};;
+527;https://witcher.fandom.com/wiki/Lille;Lille;Lille;;Human;Female;;;;;;;
+528;https://witcher.fandom.com/wiki/Lord_Strept;Lord Strept;Lord;;Human;Male;;;{'https://witcher.fandom.com/wiki/Fodcat': 'Fodcat (son)', 'https://witcher.fandom.com/wiki/Tinglant': 'Tinglant (son)', 'https://witcher.fandom.com/wiki/Wieldhill': 'Wieldhill (son)'};;;;
+529;https://witcher.fandom.com/wiki/Mad_De%C3%AF;Mad Deï;Mad;;Unknown;Male;;;;;;;
+530;https://witcher.fandom.com/wiki/Marilka;Marilka;Marilka;;Human;Female;Arcsea;{'https://witcher.fandom.com/wiki/Caldemeyn': 'Caldemeyn (father)', 'https://witcher.fandom.com/wiki/Libushe': 'Libushe (mother)'};;{'https://witcher.fandom.com/wiki/Annika': 'Annika (sister)'};;;
+531;https://witcher.fandom.com/wiki/Nan_the_Hag;Nan the Hag;Nan;;Unknown;Female;;;;;;;
+532;https://witcher.fandom.com/wiki/Nettly;Nettly;Nettly;;Human;Male;;;;;;;
+533;https://witcher.fandom.com/wiki/Neville;Neville;Neville;;Human;Male;;;;;;Mayor;
+534;https://witcher.fandom.com/wiki/Nimir;Nimir;Nimir;Deceased (killed by Geralt);Human;Male;;;;{'https://witcher.fandom.com/wiki/Vyr': 'Vyr (twin brother)'};;Bandit;Swordsmanship
+535;https://witcher.fandom.com/wiki/Nivellen;Nivellen;Nivellen;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Fenne': 'Fenne (lover)', 'https://witcher.fandom.com/wiki/Ilka': 'Ilka (lover)', 'https://witcher.fandom.com/wiki/Primula': 'Primula (lover)', 'https://witcher.fandom.com/wiki/Venimira': 'Venimira (lover)', 'https://witcher.fandom.com/wiki/Vereena': 'Vereena (lover)'};;
+536;https://witcher.fandom.com/wiki/Nohorn;Nohorn;Nohorn;Deceased (killed by Geralt);Human;Male;;;;;;Bandit;Swordsmanship
+537;https://witcher.fandom.com/wiki/Ostrit;Ostrit;Ostrit;Deceased (killed by a striga);Human;Male;;;{'https://witcher.fandom.com/wiki/Elid': 'Elid (son)'};;{'https://witcher.fandom.com/wiki/Maerlina': 'Maerlina (one night stand)'};Courtier;
+538;https://witcher.fandom.com/wiki/Primula;Primula;Primula;;Human;Female;;;;;;;
+539;https://witcher.fandom.com/wiki/Rainfarn;Rainfarn;Rainfarn;;Human;Male;;;;;;Knight;
+540;https://witcher.fandom.com/wiki/Ravix_of_Fourhorn;Ravix of Fourhorn;Ravix;;Human;Male;;;;;;;
+541;https://witcher.fandom.com/wiki/Renfri_Vellga;Renfri Vellga;Renfri;Deceased (killed by Geralt of Rivia);Human;Female;;"{'https://witcher.fandom.com/wiki/Fredefalk_Vellga': 'Fredefalk Vellga (father)', 'https://witcher.fandom.com/wiki/Silvena_(Fredefalk%27s_wife)': ""Silvena (Fredefalk's wife) (mother, deceased)""}";;{'https://witcher.fandom.com/wiki/Jarmagdo_Vellga': 'Jarmagdo Vellga (half-brother)'};;Bandit;Swordsmanship
+542;https://witcher.fandom.com/wiki/Roderick_de_Novembre;Roderick de Novembre;Roderick;;Human;Male;;;;;;Author;
+543;https://witcher.fandom.com/wiki/Roegner_of_Ebbing;Roegner of Ebbing;Roegner;Deceased (smallpox);Human;Male;;{'https://witcher.fandom.com/wiki/Prince': 'Prince (Unnamed father)'};{'https://witcher.fandom.com/wiki/Pavetta': 'Pavetta (daughter)'};{'https://witcher.fandom.com/wiki/Ciri': 'Ciri (granddaughter)'};{'https://witcher.fandom.com/wiki/Calanthe': 'Calanthe (wife)'};;
+544;https://witcher.fandom.com/wiki/Rulle_Asper;Rulle Asper;Rulle;Deceased (killed by Vereena);Human;Male;;;;;;"Merchant
+Armorer";
+545;https://witcher.fandom.com/wiki/Rumplestelt;Rumplestelt;Rumplestelt;;Gnome;Male;;;;;;;
+546;https://witcher.fandom.com/wiki/Sancia_of_Sodden;Sancia of Sodden;Sancia;;Human;Female;;{'https://witcher.fandom.com/wiki/Gutram': 'Gutram (father)'};{'https://witcher.fandom.com/wiki/Foltest': 'Foltest (son)', 'https://witcher.fandom.com/wiki/Adda_of_Temeria': 'Adda of Temeria (daughter)'};{'https://witcher.fandom.com/wiki/Ekkehard_of_Sodden': 'Ekkehard of Sodden (half-brother)', 'https://witcher.fandom.com/wiki/Adda_the_White': 'Adda the White (granddaughter)'};{'https://witcher.fandom.com/wiki/Medell': 'Medell (husband)'};;
+547;https://witcher.fandom.com/wiki/Segelin;Segelin;Segelin;;Human;Male;;;;;;;
+548;https://witcher.fandom.com/wiki/Seven_gnomes;Seven gnomes;Seven;;Unknown;;;;;;;;
+549;https://witcher.fandom.com/wiki/Silvena_(Fredefalk%27s_wife);Silvena;Silvena;;Human;Female;;;;;;;
+550;https://witcher.fandom.com/wiki/Silvena_(Narok_ruler);Silvena;Silvena;;Human;Female;;;;;;;
+551;https://witcher.fandom.com/wiki/Slow;Slow;Slow;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+552;https://witcher.fandom.com/wiki/Stregobor;Stregobor;Stregobor;;Human;Male;;;;;;Mage;Magic
+553;https://witcher.fandom.com/wiki/Supree;Supree;Supree;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+554;https://witcher.fandom.com/wiki/Tavik;Tavik;Tavik;Deceased (killed by Geralt);Human;Male;;;;;;Bandit;Swordsmanship
+555;https://witcher.fandom.com/wiki/The_Last_Wish_minor_characters;The Last Wish minor characters;The;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+556;https://witcher.fandom.com/wiki/Tinglant;Tinglant;Tinglant;;Human;Male;;{'https://witcher.fandom.com/wiki/Lord_Strept': 'Lord Strept (father)'};;{'https://witcher.fandom.com/wiki/Fodcat': 'Fodcat (brother)', 'https://witcher.fandom.com/wiki/Wieldhill': 'Wieldhill (brother)'};;;
+557;https://witcher.fandom.com/wiki/Torque;Torque;Torque;;Sylvan;Male;;;;;;Spy;
+558;https://witcher.fandom.com/wiki/Treska;Treska;Treska;;Human;Male;;;;;;Guardsman;
+559;https://witcher.fandom.com/wiki/Trigla;Trigla;Trigla;;Human;Male;Arcsea;{'https://witcher.fandom.com/wiki/Trigla': 'Trigla (father)'};{'https://witcher.fandom.com/wiki/Dragomir': 'Dragomir (son)'};;{'https://witcher.fandom.com/wiki/Hereward': 'Hereward (husband)'};Author;
+560;https://witcher.fandom.com/wiki/Valdo_Marx;Valdo Marx;Valdo;;Human;Male;;;;;;Bard;
+561;https://witcher.fandom.com/wiki/Velerad;Velerad;Velerad;;Human;Male;;;;;;"Burgomeister of Vizima
+Castellan of Vizima
+Mayor of Vizima";
+562;https://witcher.fandom.com/wiki/Venimira;Venimira;Venimira;;Human;Female;;;;;;;
+563;https://witcher.fandom.com/wiki/Vereena;Vereena;Vereena;Deceased (killed by Nivellen and Geralt);Bruxa;Female;;;;;{'https://witcher.fandom.com/wiki/Nivellen': 'Nivellen (lover)'};;
+564;https://witcher.fandom.com/wiki/Virginia;Virginia;Virginia;;Unknown;Female;;;;;;;
+565;https://witcher.fandom.com/wiki/Vratimir;Vratimir;Vratimir;;Half-human;Male;;;;;;Knight;
+566;https://witcher.fandom.com/wiki/Vyr;Vyr;Vyr;Deceased (killed by Geralt);Human;Male;;;;{'https://witcher.fandom.com/wiki/Nimir': 'Nimir (twin brother)'};;Bandit;Swordsmanship
+567;https://witcher.fandom.com/wiki/Warder;Warder;Warder;;Human;Male;(?);;;;;Prison guard;
+568;https://witcher.fandom.com/wiki/Wieldhill;Wieldhill;Wieldhill;;Human;Male;;{'https://witcher.fandom.com/wiki/Lord_Strept': 'Lord Strept (father)'};;{'https://witcher.fandom.com/wiki/Tinglant': 'Tinglant (brother)', 'https://witcher.fandom.com/wiki/Fodcat': 'Fodcat (brother)'};;;
+569;https://witcher.fandom.com/wiki/Zatret_Voruta;Zatret Voruta;Zatret;;Unknown;Male;;;;;;Warrior;Swordsmanship
+570;https://witcher.fandom.com/wiki/Zavist;Zavist;Zavist;;Human;Male;;;;;;"Advisor
+Mage";Magic
+571;https://witcher.fandom.com/wiki/Zivelina;Zivelina;Zivelina;Deceased (Killed by the plague);Human;Female;;;;;;;
+572;https://witcher.fandom.com/wiki/Aideen;Aideen;Aideen;Deceased;Human;Female;;{'https://witcher.fandom.com/wiki/Viduka': 'Viduka (father)'};;;;;
+573;https://witcher.fandom.com/wiki/Almavera;Almavera;Almavera;;Human;Male;;;;;;Tattooist;
+574;https://witcher.fandom.com/wiki/Amaranth;Amaranth;Amaranth;;Human;Male;;;;;;;
+575;https://witcher.fandom.com/wiki/Ambassador_de_Ruyter;Ambassador de Ruyter;Ambassador;;Human;Male;;;;;;Ambassador;
+576;https://witcher.fandom.com/wiki/Andres_Vierny;Andres Vierny;Andres;Deceased;Human;Male;;;;;;Professional killer;Swordsmanship
+577;https://witcher.fandom.com/wiki/Aristide_Vermuellen;Aristide Vermuellen;Aristide;;Human;Male;;;{'https://witcher.fandom.com/wiki/Guiscard_Vermuellen': 'Guiscard Vermuellen (son)'};{'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (father-in-law)'};{'https://witcher.fandom.com/wiki/Gaudemunda_Thyssen': 'Gaudemunda Thyssen (wife)'};Spymaster;
+578;https://witcher.fandom.com/wiki/Asa_Thjazi;Asa Thjazi;Asa;;Human;Male;;;;;;Ship captain;
+579;https://witcher.fandom.com/wiki/Benda;Benda;Benda;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Dagread': 'Dagread (father)'};{'https://witcher.fandom.com/wiki/Elen_of_Kaedwen': 'Elen of Kaedwen (daughter)', 'https://witcher.fandom.com/wiki/Deirdre_of_Kaedwen': 'Deirdre of Kaedwen (daughter)'};;;;
+580;https://witcher.fandom.com/wiki/Bert_Brigden;Bert Brigden;Bert;Deceased (killed by Ciri);Human;Male;;;;;;Soldier;Swordsmanship
+581;https://witcher.fandom.com/wiki/Big_Lothar;Big Lothar;Big;Deceased (Killed by Leo Bonhart);Human;Male;;;;{'https://witcher.fandom.com/wiki/Muchomorek': 'Muchomorek (brother)'};;;
+582;https://witcher.fandom.com/wiki/Billy_Goat_(digger);Billy Goat;Billy;;Human;Male;;;;;;Digger;
+583;https://witcher.fandom.com/wiki/Blanka;Blanka;Blanka;;Human;Female;;;{'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (son)'};{'https://witcher.fandom.com/wiki/Hedwig_of_Malleore': 'Hedwig of Malleore (cousin)'};{'https://witcher.fandom.com/wiki/Baldwin_Thyssen': 'Baldwin Thyssen (husband)'};;
+584;https://witcher.fandom.com/wiki/Buyvid_Backhuysen;Buyvid Backhuysen;Buyvid;;Human;Male;;;;;;Author;
+585;https://witcher.fandom.com/wiki/Chloe_Stitz;Chloe Stitz;Chloe;Deceased (killed by Jediah Mekesser);Human;Female;Ymlats;;;;{};Professional thief;Excellent aim
+586;https://witcher.fandom.com/wiki/Cyprian_Fripp_the_elder;Cyprian Fripp the elder;Cyprian;Deceased (executed);Human;Male;;;;{'https://witcher.fandom.com/wiki/Cyprian_Fripp_the_younger': 'Cyprian Fripp the younger (brother)'};;;
+587;https://witcher.fandom.com/wiki/D%27Arvy;D'Arvy;D'Arvy;;Human;Male;;;;;;;
+588;https://witcher.fandom.com/wiki/Declan_Ros_aep_Maelchlad;Declan Ros aep Maelchlad;Declan;;Human;Male;;;;;;Soldier;
+589;https://witcher.fandom.com/wiki/Dufficey_Kriel;Dufficey Kriel;Dufficey;Deceased;Human;Male;;;;;;Soldier;Swordsmanship
+590;https://witcher.fandom.com/wiki/Esterhazy;Esterhazy;Esterhazy;;Human;Male;;;;;;Smith;
+591;https://witcher.fandom.com/wiki/Esteril_Thyssen;Esteril Thyssen;Esteril;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Alicja_Troyden': 'Alicja Troyden (mother)', 'https://witcher.fandom.com/wiki/Edmund_Thyssen': 'Edmund Thyssen (father)'};{'https://witcher.fandom.com/wiki/Baldwin_Thyssen': 'Baldwin Thyssen (son)', 'https://witcher.fandom.com/wiki/Marion_Thyssen': 'Marion Thyssen (daughter)', 'https://witcher.fandom.com/wiki/Eudoxia_Thyssen': 'Eudoxia Thyssen (daughter)'};{'https://witcher.fandom.com/wiki/Xymena_Thyssen': 'Xymena Thyssen (sister)', 'https://witcher.fandom.com/wiki/Ramona_Thyssen': 'Ramona Thyssen (aunt)', 'https://witcher.fandom.com/wiki/Berengaria_Thyssen': 'Berengaria Thyssen (aunt)'};{'https://witcher.fandom.com/wiki/Agnes_of_Aedirn': 'Agnes of Aedirn (wife)'};;
+592;https://witcher.fandom.com/wiki/Gabriel_(person);Gabriel;Gabriel;;Human;Male;;;;;;Craftsman;
+593;https://witcher.fandom.com/wiki/Gaudemunda_Thyssen;Gaudemunda Thyssen;Gaudemunda;;Human;Female;;{'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (father)', 'https://witcher.fandom.com/wiki/Zuleyka': 'Zuleyka (mother)'};{'https://witcher.fandom.com/wiki/Guiscard_Vermuellen': 'Guiscard Vermuellen (son)'};{'https://witcher.fandom.com/wiki/Tankred_Thyssen': 'Tankred Thyssen (brother)', 'https://witcher.fandom.com/wiki/Heloiza_Thyssen': 'Heloiza Thyssen (sister)'};{'https://witcher.fandom.com/wiki/Prince_Vermuellen': 'Prince Vermuellen (husband)'};;
+594;https://witcher.fandom.com/wiki/Gedovius_Troyden;Gedovius Troyden;Gedovius;Deceased;Human;Male;;;{'https://witcher.fandom.com/wiki/Gerard_Troyden': 'Gerard Troyden (son)'};{'https://witcher.fandom.com/wiki/Troyden': 'Troyden (ancestor)'};{'https://witcher.fandom.com/wiki/Gemma': 'Gemma (wife)'};;
+595;https://witcher.fandom.com/wiki/Gemma;Gemma;Gemma;Deceased;Human;Female;;;{'https://witcher.fandom.com/wiki/Gerard_Troyden': 'Gerard Troyden (son)'};;{'https://witcher.fandom.com/wiki/Gedovius_Troyden': 'Gedovius Troyden (husband)'};;
+596;https://witcher.fandom.com/wiki/Gerard_Troyden;Gerard Troyden;Gerard;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Gedovius_Troyden': 'Gedovius Troyden (father)', 'https://witcher.fandom.com/wiki/Gemma': 'Gemma (mother)'};{'https://witcher.fandom.com/wiki/Alicja_Troyden': 'Alicja Troyden (daughter)', 'https://witcher.fandom.com/wiki/Anna_Troyden': 'Anna Troyden (daughter, deceased)'};;;;
+597;https://witcher.fandom.com/wiki/Golan_Drozdeck;Golan Drozdeck;Golan;;Dwarf;Male;;;;;;Foreman of the Little Babette mine;
+598;https://witcher.fandom.com/wiki/Gosta;Gosta;Gosta;;Human;Male;;;;;;Fisherman;
+599;https://witcher.fandom.com/wiki/Guiscard_Vermuellen;Guiscard Vermuellen;Guiscard;;Human;Male;;{'https://witcher.fandom.com/wiki/Aristide_Vermuellen': 'Aristide Vermuellen (father)', 'https://witcher.fandom.com/wiki/Gaudemunda_Thyssen': 'Gaudemunda Thyssen (mother)'};;{'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (grandfather)', 'https://witcher.fandom.com/wiki/Zuleyka': 'Zuleyka (grandmother)', 'https://witcher.fandom.com/wiki/Tankred_Thyssen': 'Tankred Thyssen (uncle)', 'https://witcher.fandom.com/wiki/Heloiza_Thyssen': 'Heloiza Thyssen (aunt)'};;;
+600;https://witcher.fandom.com/wiki/Guthlaf;Guthlaf;Guthlaf;Deceased (killed by Vilgefortz);Human;Male;;"{'https://witcher.fandom.com/wiki/Sven_(Guthlaf%27s_father)': ""Sven (Guthlaf's father) (father)""}";;;;Seneschal;
+601;https://witcher.fandom.com/wiki/Hjalmar_an_Craite;Hjalmar an Craite;Hjalmar;;Human;Male;;{'https://witcher.fandom.com/wiki/Crach_an_Craite': 'Crach an Craite (father)'};;{'https://witcher.fandom.com/wiki/Cerys_an_Craite': 'Cerys an Craite (sister)'};;;Swordsmanship
+602;https://witcher.fandom.com/wiki/Homer_Straggen;Homer Straggen;Homer;Deceased (burnt alive by druids);Human;Male;;;;{'https://witcher.fandom.com/wiki/Antoine_Straggen': 'Antoine Straggen (unknown relation)'};;Bandit;
+603;https://witcher.fandom.com/wiki/Horsehide;Horsehide;Horsehide;;Human;Male;;;;;;;
+604;https://witcher.fandom.com/wiki/Jan_Calveit;Jan Calveit;Jan;;Human;Male;[2] or [3];;;;;;
+605;https://witcher.fandom.com/wiki/Jan_Cronin;Jan Cronin;Jan;;Human;Male;;;;;;Governor;
+606;https://witcher.fandom.com/wiki/Jediah_Mekesser;Jediah Mekesser;Jediah;Deceased (killed by Stefan Skellen);Human;Male;;;;;;Mercenary;Swordsmanship
+607;https://witcher.fandom.com/wiki/Joanna_Selborne;Joanna Selborne;Joanna;;Human;Female;;;;;;;Psionic (telepathy, telempathy, and precognition)
+608;https://witcher.fandom.com/wiki/Kabernik_Turent;Kabernik Turent;Kabernik;Deceased (killed by Ciri);Human;Male;;;;;;Professional killer;Swordsmanship
+609;https://witcher.fandom.com/wiki/Kamil_Ronstetter;Kamil Ronstetter;Kamil;;Human;Male;;;;;;Digger;
+610;https://witcher.fandom.com/wiki/Kaveri;Kaveri;Kaveri;Deceased;Half-elf;Female;;;{'https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg': 'Yennefer of Vengerberg (daughter)'};;{};;
+611;https://witcher.fandom.com/wiki/Kohut;Kohut;Kohut;;Human;Male;;;;;;Quartermaster (formerly);
+612;https://witcher.fandom.com/wiki/Lady_de_Lisemore;Lady de Lisemore;Lady;;Human;Female;;;;;;;
+613;https://witcher.fandom.com/wiki/Marie_de_Mercey;Marie de Mercey;Marie;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Marquis_de_Mercey': 'Marquis de Mercey (husband)', 'https://witcher.fandom.com/wiki/Sigismund_Dijkstra': 'Sigismund Dijkstra (lover)'};;
+614;https://witcher.fandom.com/wiki/Marquard;Marquard;Marquard;Deceased (killed during the Thanedd coup);Human;Male;;;;;;Mage;Magic
+615;https://witcher.fandom.com/wiki/Marquis_de_Mercey;Marquis de Mercey;Marquis;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Marie_de_Mercey': 'Marie de Mercey (wife)'};;
+616;https://witcher.fandom.com/wiki/Matilda_de_Nementh-Uyvar;Matilda de Nementh-Uyvar;Matilda;;Human;Female;;;;;;;
+617;https://witcher.fandom.com/wiki/Matted_Hair;Matted Hair;Matted;Deceased (killed by Ciri);Human;Male;;;;;;;
+618;https://witcher.fandom.com/wiki/Michael_de_Noailles;Michael de Noailles;Michael;;Human;Male;;;;;;;
+619;https://witcher.fandom.com/wiki/Muchomorek;Muchomorek;Muchomorek;Deceased (killed by Leo Bonhart);Human;Male;;;;{'https://witcher.fandom.com/wiki/Big_Lothar': 'Big Lothar (brother)'};;;
+620;https://witcher.fandom.com/wiki/Neratin_Ceka;Neratin Ceka;Neratin;Deceased (killed by Leo Bonhart);Human;Unclear, supposed to be male by Dacre;;;;;;"Soldier
+Spy";Swordsmanship
+621;https://witcher.fandom.com/wiki/Novosad;Novosad;Novosad;Deceased (killed by Geralt);Human;Male;;;;;;Bandit;
+622;https://witcher.fandom.com/wiki/Pennycuick;Pennycuick;Pennycuick;;Human;Male;;;;;;Mayor;
+623;https://witcher.fandom.com/wiki/Raymund;Raymund;Raymund;Deceased (apoplexy);Human;Male;;;;;{'https://witcher.fandom.com/wiki/Anna_Henrietta': 'Anna Henrietta (wife)'};;
+624;https://witcher.fandom.com/wiki/Reynart_de_Bois-Fresnes;Reynart de Bois-Fresnes;Reynart;Deceased (killed by marauders);Human;Male;;;;{'https://witcher.fandom.com/wiki/Guy_de_Bois-Fresnes': 'Guy de Bois-Fresnes (second cousin)'};;Knight errant;
+625;https://witcher.fandom.com/wiki/Rispat_La_Pointe;Rispat La Pointe;Rispat;Deceased (killed by Ciri);Human;Male;;;;;;Soldier;Swordsmanship
+626;https://witcher.fandom.com/wiki/Rupert_(The_Tower_of_the_Swallow);Rupert;Rupert;;Human;Male;;;;;;Soldier;
+627;https://witcher.fandom.com/wiki/Scarra_sisters;Scarra sisters;Scarra;;Human;Female;;;;;;;
+628;https://witcher.fandom.com/wiki/Schliemann;Schliemann;Schliemann;;Human;Male;;;;;;Professor;Sigillography specialist
+629;https://witcher.fandom.com/wiki/Sigrdrifa;Sigrdrifa;Sigrdrifa;;Human;Female;;;;;;Priestess;
+630;https://witcher.fandom.com/wiki/Stavro;Stavro;Stavro;Deceased (killed by Ciri);Human;Male;;;;;;Soldier;
+631;https://witcher.fandom.com/wiki/Stigward;Stigward;Stigward;Deceased (killed by Ciri);Human;Male;;;;;;"Pirate
+Professional killer";Swordsmanship
+632;https://witcher.fandom.com/wiki/Surcratasse;Surcratasse;Surcratasse;;Human;Male;;;;;;;
+633;https://witcher.fandom.com/wiki/Sven_(Guthlaf%27s_father);Sven;Sven;;Human;Male;;;{};;;;
+634;https://witcher.fandom.com/wiki/Tankred_Thyssen;Tankred Thyssen;Tankred;;Human;Male;;{'https://witcher.fandom.com/wiki/Zuleyka_of_Talgar': 'Zuleyka of Talgar (mother)', 'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (father)'};;{'https://witcher.fandom.com/wiki/Gaudemunda_Thyssen': 'Gaudemunda Thyssen (sister)', 'https://witcher.fandom.com/wiki/Heloiza_Thyssen': 'Heloiza Thyssen (sister)', 'https://witcher.fandom.com/wiki/Guiscard_Vermuellen': 'Guiscard Vermuellen (nephew)'};;;
+635;https://witcher.fandom.com/wiki/Til_Echrade;Til Echrade;Til;Deceased;Aen Seidhe Elf;Male;;;;;;"Professional killer
+Scout";"Elven magic
+Swordsmanship"
+636;https://witcher.fandom.com/wiki/Torres_var_Emreis;Torres var Emreis;Torres;Deceased;Unknown;Male;;;{'https://witcher.fandom.com/wiki/Fergus_var_Emreis': 'Fergus var Emreis (son)'};;;;
+637;https://witcher.fandom.com/wiki/Troyden;Troyden;Troyden;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Radovid_I': 'Radovid I (brother)'};;;
+638;https://witcher.fandom.com/wiki/Valdez;Valdez;Valdez;;Unknown;;;;;;;;
+639;https://witcher.fandom.com/wiki/Vysogota_of_Corvo;Vysogota of Corvo;Vysogota;Deceased;Human;Male;;;;;;"Tanner
+Professor (formerly)";
+640;https://witcher.fandom.com/wiki/Walter_Beda;Walter Beda;Walter;Deceased;Human;Male;;;;;;;
+641;https://witcher.fandom.com/wiki/Weasel;Weasel;Weasel;Deceased (killed by Geralt);Human;Male;;;;;;Bandit;Swordsmanship
+642;https://witcher.fandom.com/wiki/Windsor_Imbra;Windsor Imbra;Windsor;;Human;Male;;;;;;Seneschal;
+643;https://witcher.fandom.com/wiki/Yirrel;Yirrel;Yirrel;Deceased (killed by Angoulême);Human;Male;;;;;;Bandit;
+644;https://witcher.fandom.com/wiki/Yuz_Jannowitz;Yuz Jannowitz;Yuz;Deceased (killed by Ciri);Human;Male;;;;;;Professional killer;Swordsmanship
+645;https://witcher.fandom.com/wiki/Zdyb;Zdyb;Zdyb;;Human;Male;;;;;;Digger;
+646;https://witcher.fandom.com/wiki/Zuleyka;Zuleyka;Zuleyka;;Human;Female;;;{'https://witcher.fandom.com/wiki/Gaudemunda_Thyssen': 'Gaudemunda Thyssen (daughter)', 'https://witcher.fandom.com/wiki/Heloiza_Thyssen': 'Heloiza Thyssen (daughter)', 'https://witcher.fandom.com/wiki/Tankred_Thyssen': 'Tankred Thyssen (son)'};;{'https://witcher.fandom.com/wiki/Esterad_Thyssen': 'Esterad Thyssen (husband)'};;
+647;https://witcher.fandom.com/wiki/Abdank;Abdank;Abdank;Deceased;Human;Male;;{'https://witcher.fandom.com/wiki/Dezmod': 'Dezmod (father)'};;{};;;
+648;https://witcher.fandom.com/wiki/Aine_Dermott;Aine Dermott;Aine;;Human;Female;(?);;;;{};;
+649;https://witcher.fandom.com/wiki/Akerspaark%27s_children;Akerspaark's children;Akerspaark's;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+650;https://witcher.fandom.com/wiki/Alia_Akerspaark;Alia Akerspaark;Alia;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+651;https://witcher.fandom.com/wiki/Aplegatt;Aplegatt;Aplegatt;Deceased (killed by Yaevinn);Human;Male;;;;;;Royal Messenger;
+652;https://witcher.fandom.com/wiki/April_Wenhaver;April Wenhaver;April;Deceased;Human;Female;;;;;;Mage;Magic
+653;https://witcher.fandom.com/wiki/Argentina_Akerspaark;Argentina Akerspaark;Argentina;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+654;https://witcher.fandom.com/wiki/Audegast;Audegast;Audegast;;Human;Male;;;;;;Bailiff;
+655;https://witcher.fandom.com/wiki/Aurora_Henson;Aurora Henson;Aurora;Deceased;Human;Female;;;;{'https://witcher.fandom.com/wiki/Alissa_Henson': 'Alissa Henson (niece)'};;Mage;Water-based magic
+656;https://witcher.fandom.com/wiki/Bianca_d%27Este;Bianca d'Este;Bianca;Deceased (killed during the Thanedd coup);Human;Female;;;;;;Mage;Magic
+657;https://witcher.fandom.com/wiki/Blaise;Blaise;Blaise;Deceased (stabbed to death by Scoia'tael);Human;Male;;;;;;Soldier;Swordsmanship
+658;https://witcher.fandom.com/wiki/Blue_Knight;Blue Knight;Blue;Deceased (killed by Sweers);Human;Male;;;;;;Knight;Swordsmanship
+659;https://witcher.fandom.com/wiki/Bode;Bode;Bode;;Human;Male;;;;;;Soldier;
+660;https://witcher.fandom.com/wiki/Cinia_Hofmeier;Cinia Hofmeier;Cinia;;Halfling;Female;;{'https://witcher.fandom.com/wiki/Bernie_Hofmeier': 'Bernie Hofmeier (father)', 'https://witcher.fandom.com/wiki/Petunia_Hofmeier': 'Petunia Hofmeier (mother)'};;{'https://witcher.fandom.com/wiki/Franklin_Hofmeier': 'Franklin Hofmeier (brother)', 'https://witcher.fandom.com/wiki/Tangerinka_Hofmeier': 'Tangerinka Hofmeier (sister)', 'https://witcher.fandom.com/wiki/Didi_Hofmeier': 'Didi Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Holofernes_Hofmeier': 'Holofernes Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Sam_Hofmeier': 'Sam Hofmeier (unknown relation)'};;Farmer;
+661;https://witcher.fandom.com/wiki/Clara_aep_Gwydolyn_Gor;Clara aep Gwydolyn Gor;Clara;;Human;Female;;;;;{};;
+662;https://witcher.fandom.com/wiki/Dervla_Tryffin_Broinne;Dervla Tryffin Broinne;Dervla;;Human;Female;;;;;{'https://witcher.fandom.com/wiki/Broinne': 'Broinne (husband)', 'https://witcher.fandom.com/wiki/Emhyr_var_Emreis': 'Emhyr var Emreis (lover)'};;
+663;https://witcher.fandom.com/wiki/Detmold;Detmold;Detmold;;Human;Male;;;;{'https://witcher.fandom.com/wiki/Drithelm': 'Drithelm (brother)'};;"Mage
+Royal Advisor";Magic
+664;https://witcher.fandom.com/wiki/Drithelm;Drithelm;Drithelm;Deceased (shot in the eye during the Thanedd coup);Human;Male;;;;{'https://witcher.fandom.com/wiki/Dethmold': 'Dethmold (brother)'};;Mage;Magic
+665;https://witcher.fandom.com/wiki/Ettariel;Ettariel;Ettariel;;Aen Seidhe Elf;Female;;;;;;;
+666;https://witcher.fandom.com/wiki/Evan_Helvet;Evan Helvet;Evan;;Human;Male;;;;;;Bailiff;
+667;https://witcher.fandom.com/wiki/Fabio_Sachs_(senior);Fabio Sachs;Fabio;;Human;Male;;;{'https://witcher.fandom.com/wiki/Fabio_Sachs': 'Fabio Sachs (son)'};;;;
+668;https://witcher.fandom.com/wiki/Franklin_Hofmeier;Franklin Hofmeier;Franklin;;Halfling;Male;;{'https://witcher.fandom.com/wiki/Bernie_Hofmeier': 'Bernie Hofmeier (father)', 'https://witcher.fandom.com/wiki/Petunia_Hofmeier': 'Petunia Hofmeier (mother)'};;{'https://witcher.fandom.com/wiki/Cinia_Hofmeier': 'Cinia Hofmeier (sister)', 'https://witcher.fandom.com/wiki/Tangerinka_Hofmeier': 'Tangerinka Hofmeier (sister)', 'https://witcher.fandom.com/wiki/Didi_Hofmeier': 'Didi Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Holofernes_Hofmeier': 'Holofernes Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Sam_Hofmeier': 'Sam Hofmeier (unknown relation)'};;Farmer;
+669;https://witcher.fandom.com/wiki/Gonzalez_Akerspaark;Gonzalez Akerspaark;Gonzalez;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+670;https://witcher.fandom.com/wiki/Gorm_Akerspaark;Gorm Akerspaark;Gorm;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+671;https://witcher.fandom.com/wiki/Hansom;Hansom;Hansom;;Human;Male;;;;;;Royal Messenger;
+672;https://witcher.fandom.com/wiki/Heimo_Kantor;Heimo Kantor;Heimo;Deceased (killed by Geralt of Rivia);Human;Male;;;;;;Assassin;Swordmanship
+673;https://witcher.fandom.com/wiki/Horm_Akerspaark;Horm Akerspaark;Horm;;Human;Male;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};;{'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)'};;Knight;
+674;https://witcher.fandom.com/wiki/Ho%C3%ABt;Hoët;Hoët;;Unknown;Male;;;;;;;
+675;https://witcher.fandom.com/wiki/Hrafnir;Hrafnir;Hrafnir;;Human;Male;;;;;;Skald;Playing music
+676;https://witcher.fandom.com/wiki/Hugo_Ansbach;Hugo Ansbach;Hugo;;Halfling;Male;;;;;;;
+677;https://witcher.fandom.com/wiki/Ilona_Laux-Antille;Ilona Laux-Antille;Ilona;Deceased;Human;Female;;;;{'https://witcher.fandom.com/wiki/Margarita_Laux-Antille': 'Margarita Laux-Antille (granddaughter)'};{'https://witcher.fandom.com/wiki/Amavet': 'Amavet (lover)'};Mage;Magic
+678;https://witcher.fandom.com/wiki/Immanuel_Benavent;Immanuel Benavent;Immanuel;Deceased;Human;Male;;;;;;"Mage
+Author";Magic
+679;https://witcher.fandom.com/wiki/Jada_Glevissig;Jada Glevissig;Jada;Deceased;Human;Female;;;;{'https://witcher.fandom.com/wiki/Sabrina_Glevissig': 'Sabrina Glevissig (descendant)'};;Mage;Magic
+680;https://witcher.fandom.com/wiki/Justin_Ingvar;Justin Ingvar;Justin;;Dwarf;Male;;;;;;Blacksmith;
+681;https://witcher.fandom.com/wiki/Klara_Larissa_de_Winter;Klara Larissa de Winter;Klara;Deceased;Human;Female;;;;;;Mage;Fire-based magic
+682;https://witcher.fandom.com/wiki/Kraska;Kraska;Kraska;;Human;Male;;;;;;Soldier;
+683;https://witcher.fandom.com/wiki/Lars;Lars;Lars;;Human;Male;;;;;{'https://witcher.fandom.com/wiki/Margarita_Laux-Antille': 'Margarita Laux-Antille (formerly)'};;
+684;https://witcher.fandom.com/wiki/Leila;Leila;Leila;;Unknown;Female;;;;;;Prostitute;
+685;https://witcher.fandom.com/wiki/Little_Yaxa;Little Yaxa;Little;Deceased (killed by Geralt);Human;Male;;;;;;Assassin;Swordmanship
+686;https://witcher.fandom.com/wiki/Lutz;Lutz;Lutz;;Human;Male;;;;;;;
+687;https://witcher.fandom.com/wiki/Malvina_Akerspaark;Malvina Akerspaark;Malvina;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+688;https://witcher.fandom.com/wiki/Mansfeld;Mansfeld;Mansfeld;;Human;Male;;;;;;"Spymaster
+Governor";
+689;https://witcher.fandom.com/wiki/Marder;Marder;Marder;;Human;Male;;;;;;Bailiff;
+690;https://witcher.fandom.com/wiki/Michael_Glomb;Michael Glomb;Michael;Deceased (stabbed to death by Schirrú);Human;Male;;;;;;Jurist;
+691;https://witcher.fandom.com/wiki/Molnar_Giancardi;Molnar Giancardi;Molnar;;Dwarf;Male;;;;;;Banker;
+692;https://witcher.fandom.com/wiki/Nina_Akerspaark;Nina Akerspaark;Nina;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+693;https://witcher.fandom.com/wiki/Nina_Fioravanti;Nina Fioravanti;Nina;Deceased;Human;Female;;;;;;"Mage
+Author";Earth-based magic
+694;https://witcher.fandom.com/wiki/Nora_Wagner;Nora Wagner;Nora;Deceased;Human;Female;;;;{'https://witcher.fandom.com/wiki/Augusta_Wagner': 'Augusta Wagner (sister)'};;Mage;Magic
+695;https://witcher.fandom.com/wiki/Orm_Akerspaark;Orm Akerspaark;Orm;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+696;https://witcher.fandom.com/wiki/Paulina_Akerspaark;Paulina Akerspaark;Paulina;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+697;https://witcher.fandom.com/wiki/Pegasus;Pegasus;Pegasus;;Unknown;Male (gelding);;;;;;;
+698;https://witcher.fandom.com/wiki/Peter_Evertsen;Peter Evertsen;Peter;Deceased (executed for treason);Human;Male;Winneburger?;;;;;Bailiff;
+699;https://witcher.fandom.com/wiki/Petunia_Hofmeier;Petunia Hofmeier;Petunia;;Halfling;Female;;;{'https://witcher.fandom.com/wiki/Franklin_Hofmeier': 'Franklin Hofmeier (son)', 'https://witcher.fandom.com/wiki/Cinia_Hofmeier': 'Cinia Hofmeier (daughter)', 'https://witcher.fandom.com/wiki/Tangerinka_Hofmeier': 'Tangerinka Hofmeier (daughter)'};;{'https://witcher.fandom.com/wiki/Bernie_Hofmeier': 'Bernie Hofmeier (husband)'};Farmer;
+700;https://witcher.fandom.com/wiki/Pitcairn_Godyvron;Pitcairn Godyvron;Pitcairn;;Human;Male;;;;;;Soldier;
+701;https://witcher.fandom.com/wiki/Radmir;Radmir;Radmir;Deceased (flayed alive during Falka's rebellion);Human;Male;;;;;;Mage;Magic
+702;https://witcher.fandom.com/wiki/Raffard_the_White;Raffard the White;Raffard;Deceased (killed by a Chapter mage);Human;Male;;;;;;"Advisor
+Mage";Magic
+703;https://witcher.fandom.com/wiki/Ralf_Blunden;Ralf Blunden;Ralf;Deceased (killed by Geralt of Rivia);Human;Male;;;;;;Assassin;Swordmanship
+704;https://witcher.fandom.com/wiki/Ransant_Alvaro;Ransant Alvaro;Ransant;;Unknown;Male;;;;;;"Mage
+Author";Magic
+705;https://witcher.fandom.com/wiki/Rejean;Rejean;Rejean;Deceased (killed during the Thanedd coup);Human;Male;;;;;;Mage;Magic
+706;https://witcher.fandom.com/wiki/Remiz;Remiz;Remiz;Deceased (killed by Reef);Human;Male;;;;{'https://witcher.fandom.com/wiki/Skomlik': 'Skomlik (brother-in-law)'};;Servant;
+707;https://witcher.fandom.com/wiki/Rudiger;Rudiger;Rudiger;;Human;Male;;;;;;;
+708;https://witcher.fandom.com/wiki/Sir_Sweers;Sir Sweers;Sir;;Human;Male;(apparently);;;;;Knight;
+709;https://witcher.fandom.com/wiki/Skomlik;Skomlik;Skomlik;Deceased (killed by Mistle);Human;Male;;;;{'https://witcher.fandom.com/wiki/Remiz': 'Remiz (brother-in-law)'};;;
+710;https://witcher.fandom.com/wiki/Stahler;Stahler;Stahler;;Human;Male;;;;;;Soldier;
+711;https://witcher.fandom.com/wiki/Tangerinka_Hofmeier;Tangerinka Hofmeier;Tangerinka;;Halfling;Female;;{'https://witcher.fandom.com/wiki/Bernie_Hofmeier': 'Bernie Hofmeier (father)', 'https://witcher.fandom.com/wiki/Petunia_Hofmeier': 'Petunia Hofmeier (mother)'};;{'https://witcher.fandom.com/wiki/Franklin_Hofmeier': 'Franklin Hofmeier (brother)', 'https://witcher.fandom.com/wiki/Cinia_Hofmeier': 'Cinia Hofmeier (sister)', 'https://witcher.fandom.com/wiki/Didi_Hofmeier': 'Didi Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Holofernes_Hofmeier': 'Holofernes Hofmeier (unknown relation)', 'https://witcher.fandom.com/wiki/Sam_Hofmeier': 'Sam Hofmeier (unknown relation)'};;Farmer;
+712;https://witcher.fandom.com/wiki/Torm_Akerspaark;Torm Akerspaark;Torm;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+713;https://witcher.fandom.com/wiki/Two_Tusks;Two Tusks;Two;Deceased (killed by Sweers);Human;Male;;;;;;Knight;Swordsmanship
+714;https://witcher.fandom.com/wiki/Valia_Akerspaark;Valia Akerspaark;Valia;;Human;Female;;{'https://witcher.fandom.com/wiki/Akerspaark': 'Akerspaark (father)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Valia_Akerspaark': 'Valia Akerspaark (sister)'};{'https://witcher.fandom.com/wiki/Gonzalez_Akerspaark': 'Gonzalez Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Gorm_Akerspaark': 'Gorm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Horm_Akerspaark': 'Horm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Orm_Akerspaark': 'Orm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Torm_Akerspaark': 'Torm Akerspaark (brother)', 'https://witcher.fandom.com/wiki/Alia_Akerspaark': 'Alia Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Argentina_Akerspaark': 'Argentina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Malvina_Akerspaark': 'Malvina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Nina_Akerspaark': 'Nina Akerspaark (sister)', 'https://witcher.fandom.com/wiki/Paulina_Akerspaark': 'Paulina Akerspaark (sister)'};;;
+715;https://witcher.fandom.com/wiki/Vercta;Vercta;Vercta;Deceased (killed by the Rats);Human;Male;;;;;;Bounty hunter;Swordsmanship
+716;https://witcher.fandom.com/wiki/Villis;Villis;Villis;Deceased (mercy killed by Rayla);Human;Male;;;;;;Soldier;Swordsmanship
+717;https://witcher.fandom.com/wiki/Voymir_(Redanian);Voymir;Voymir;;Human;Male;;;;;;Soldier;
+718;https://witcher.fandom.com/wiki/Wilfli;Wilfli;Wilfli;;Dwarf;Male;;;;;;Banker;
+719;https://witcher.fandom.com/wiki/Willemer;Willemer;Willemer;;Human;Male;;;;;;Archpriest;
+720;https://witcher.fandom.com/wiki/Yaevinn;Yaevinn;Yaevinn;;Aen Seidhe Elf;Male;;;;;;;Archery
+721;https://witcher.fandom.com/wiki/Yanna_of_Murivel;Yanna of Murivel;Yanna;Deceased;Human;Female;;;;;;Mage;Magic
+722;https://witcher.fandom.com/wiki/Yiolenta_Suarez;Yiolenta Suarez;Yiolenta;Deceased;Human;Female;;;;;;Mage;Magic
